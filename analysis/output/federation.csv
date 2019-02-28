@@ -1,0 +1,72 @@
+name,id,category,is_main,share
+CH,0,Allgemeine Verwaltung,TRUE,0.09621812614524708
+CH,01,Legislative und Exekutive,FALSE,0.005740827666207287
+CH,02,Allgemeine Dienste,FALSE,0.02919383989077943
+CH,03,Beziehungen zum Ausland,FALSE,0.061135195201608455
+CH,08,F&E in allgemeine Verwaltung,FALSE,1.4826338665190392e-4
+CH,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.10020358861262972
+CH,11,Öffentliche Sicherheit,FALSE,0.011648230640118802
+CH,12,Rechtssprechung,FALSE,0.0033613706831138
+CH,13,Strafvollzug,FALSE,0.0010434509031619545
+CH,14,Allgemeines Rechtswesen,FALSE,1.1303328348641845e-4
+CH,15,Feuerwehr,FALSE,0
+CH,16,Verteidigung,FALSE,0.08364439320048427
+CH,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,3.931099022644852e-4
+CH,2,Bildung,TRUE,0.10650262055120684
+CH,21,Obligatorische Schule,FALSE,4.118086161448819e-4
+CH,22,Sonderschulen,FALSE,0
+CH,23,Berufliche Grundbildung,FALSE,0.014187801058868223
+CH,25,Allgemeinbildende Schulen,FALSE,9.965338053531651e-7
+CH,26,Höhere Berufsbildung,FALSE,0.002267804229358989
+CH,27,Hochschulen,FALSE,0.0400207119812824
+CH,28,Forschung,FALSE,0.049490091864562914
+CH,29,Übriges Bildungswesen,FALSE,1.2340626718408218e-4
+CH,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.008187815847426783
+CH,31,Kulturerbe,FALSE,0.0014336824758156542
+CH,32,"Kultur, übrige",FALSE,0.0020614628170910676
+CH,33,Medien,FALSE,0.001718475826530375
+CH,34,Sport und Freizeit,FALSE,0.002908837218797857
+CH,35,Kirchen und religiöse Angelegenheiten,FALSE,0
+CH,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,6.535750919182903e-5
+CH,4,Gesundheit,TRUE,0.005172110150456465
+CH,41,"Spitäler, Kranken- und Pflegeheime",FALSE,2.4088542452232578e-5
+CH,42,Ambulante Krankenpflege,FALSE,0
+CH,43,Gesundheitsprävention,FALSE,0.0031421211466053723
+CH,48,F&E in Gesundheit,FALSE,0.002002997398891093
+CH,49,Gesundheitswesen n.a.g.,FALSE,2.9030625077669242e-6
+CH,5,Soziale Sicherheit,TRUE,0.4049234025617959
+CH,51,Krankheit und Unfall,FALSE,0.04805231736310807
+CH,52,Invalidität,FALSE,0.1024415945401564
+CH,53,Alter + Hinterlassene,FALSE,0.2177727021837988
+CH,54,Familie und Jugend,FALSE,0.003498153858960835
+CH,55,Arbeitslosigkeit,FALSE,0.010262638754810236
+CH,56,Sozialer Wohnungsbau,FALSE,4.128503359079218e-5
+CH,57,Sozialhilfe und Asylwesen,FALSE,0.022801102028783153
+CH,58,F&E in soziale Sicherheit,FALSE,4.926616475045854e-5
+CH,59,Soziale Wohlfahrt n.a.g.,FALSE,4.342633837121867e-6
+CH,6,Verkehr und Nachrichtenübermittlung,TRUE,0.1710487301847246
+CH,61,Strassenverkehr,FALSE,0.06703987919702122
+CH,62,Öffentlicher Verkehr,FALSE,0.10047290826208355
+CH,63,"Verkehr, übrige",FALSE,0.0024606724944540065
+CH,64,Nachrichtenübermittlung,FALSE,0
+CH,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0.0010752702311658327
+CH,7,Umweltschutz und Raumordnung,TRUE,0.01771127004095579
+CH,71,Wasserversorgung,FALSE,0
+CH,72,Abwasserbeseitigung,FALSE,2.0982416166382485e-4
+CH,73,Abfallwirtschaft,FALSE,3.2449586261803256e-4
+CH,74,Verbauungen,FALSE,0.0045925547807750015
+CH,75,Arten- und Landschaftsschutz,FALSE,0.00201009624463724
+CH,76,Bekämpfung von Umweltverschmutzung,FALSE,0.004637773065501023
+CH,77,Übriger Umweltschutz,FALSE,0.0024707373890224937
+CH,78,F&E in Umweltschutz,FALSE,0.003175729337870729
+CH,79,Raumordnung,FALSE,2.900591988674435e-4
+CH,8,Volkswirtschaft,TRUE,0.09003233590555686
+CH,81,Landwirtschaft,FALSE,0.06717153101154091
+CH,82,Forstwirtschaft,FALSE,4.23858667083718e-4
+CH,83,Jagd und Fischerei,FALSE,1.544569498207852e-4
+CH,84,Tourismus,FALSE,0.001453096187117195
+CH,85,"Industrie, Gewerbe, Handel",FALSE,0.0020520536630079917
+CH,86,Banken und Versicherungen,FALSE,5.095164166859562e-6
+CH,87,Brennstoffe und Energie,FALSE,0.009029399316853077
+CH,88,F&E in Volkswirtschaft,FALSE,0.00974284494596632
+CH,89,Sonstige gewerbliche Betriebe,FALSE,0

@@ -1,0 +1,1847 @@
+name,id,category,is_main,share
+AG,0,Allgemeine Verwaltung,TRUE,0.13480424227820884
+AG,01,Legislative und Exekutive,FALSE,0.021975580881209596
+AG,02,Allgemeine Dienste,FALSE,0.11282866139699924
+AG,03,Beziehungen zum Ausland,FALSE,0
+AG,08,F&E in allgemeine Verwaltung,FALSE,0
+AG,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.051963487942536545
+AG,11,Öffentliche Sicherheit,FALSE,0.015849978174104915
+AG,12,Rechtssprechung,FALSE,1.0404182030425e-5
+AG,13,Strafvollzug,FALSE,0
+AG,14,Allgemeines Rechtswesen,FALSE,0.013936631030413565
+AG,15,Feuerwehr,FALSE,0.01579703539323266
+AG,16,Verteidigung,FALSE,0.006369439162754978
+AG,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+AG,2,Bildung,TRUE,0.3842751989517917
+AG,21,Obligatorische Schule,FALSE,0.3115467201893195
+AG,22,Sonderschulen,FALSE,0.04388608713881271
+AG,23,Berufliche Grundbildung,FALSE,0.02515995348111481
+AG,25,Allgemeinbildende Schulen,FALSE,0.003148335451108553
+AG,26,Höhere Berufsbildung,FALSE,0
+AG,27,Hochschulen,FALSE,3.845544687321965e-7
+AG,28,Forschung,FALSE,0
+AG,29,Übriges Bildungswesen,FALSE,5.33718136967376e-4
+AG,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.05137808213351085
+AG,31,Kulturerbe,FALSE,0.004016408286665723
+AG,32,"Kultur, übrige",FALSE,0.015687508182068644
+AG,33,Medien,FALSE,4.237784527678081e-4
+AG,34,Sport und Freizeit,FALSE,0.03124126084986105
+AG,35,Kirchen und religiöse Angelegenheiten,FALSE,9.126362147620369e-6
+AG,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+AG,4,Gesundheit,TRUE,0.07714269862145236
+AG,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.06085840760533517
+AG,42,Ambulante Krankenpflege,FALSE,0.014317496839368758
+AG,43,Gesundheitsprävention,FALSE,0.0018721266040214984
+AG,48,F&E in Gesundheit,FALSE,0
+AG,49,Gesundheitswesen n.a.g.,FALSE,9.466757272694219e-5
+AG,5,Soziale Sicherheit,TRUE,0.1320484581651516
+AG,51,Krankheit und Unfall,FALSE,0
+AG,52,Invalidität,FALSE,0.031004942907214294
+AG,53,Alter + Hinterlassene,FALSE,0.008480501758227097
+AG,54,Familie und Jugend,FALSE,0.024572326150872115
+AG,55,Arbeitslosigkeit,FALSE,1.6866689644864488e-4
+AG,56,Sozialer Wohnungsbau,FALSE,1.4306157392276927e-5
+AG,57,Sozialhilfe und Asylwesen,FALSE,0.06752433433886623
+AG,58,F&E in soziale Sicherheit,FALSE,0
+AG,59,Soziale Wohlfahrt n.a.g.,FALSE,2.833799561309353e-4
+AG,6,Verkehr und Nachrichtenübermittlung,TRUE,0.1326745433238628
+AG,61,Strassenverkehr,FALSE,0.10015889471407148
+AG,62,Öffentlicher Verkehr,FALSE,0.032515648609791316
+AG,63,"Verkehr, übrige",FALSE,0
+AG,64,Nachrichtenübermittlung,FALSE,0
+AG,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+AG,7,Umweltschutz und Raumordnung,TRUE,0.028321983385390742
+AG,71,Wasserversorgung,FALSE,0.003083793137097388
+AG,72,Abwasserbeseitigung,FALSE,0.0012288884993498143
+AG,73,Abfallwirtschaft,FALSE,0.001291845822044583
+AG,74,Verbauungen,FALSE,0.004241458813477598
+AG,75,Arten- und Landschaftsschutz,FALSE,0.0012998061413250779
+AG,76,Bekämpfung von Umweltverschmutzung,FALSE,5.111262694828598e-4
+AG,77,Übriger Umweltschutz,FALSE,0.009036194840416668
+AG,78,F&E in Umweltschutz,FALSE,0
+AG,79,Raumordnung,FALSE,0.007628869862196752
+AG,8,Volkswirtschaft,TRUE,0.007391305198094584
+AG,81,Landwirtschaft,FALSE,0.003082095872838383
+AG,82,Forstwirtschaft,FALSE,0.0015866320982879127
+AG,83,Jagd und Fischerei,FALSE,6.743698058377655e-6
+AG,84,Tourismus,FALSE,0.00203937581490909
+AG,85,"Industrie, Gewerbe, Handel",FALSE,6.764577140008215e-4
+AG,86,Banken und Versicherungen,FALSE,0
+AG,87,Brennstoffe und Energie,FALSE,0
+AG,88,F&E in Volkswirtschaft,FALSE,0
+AG,89,Sonstige gewerbliche Betriebe,FALSE,0
+AI,0,Allgemeine Verwaltung,TRUE,0.07253600272126057
+AI,01,Legislative und Exekutive,FALSE,0.015883728449011765
+AI,02,Allgemeine Dienste,FALSE,0.0566522742722488
+AI,03,Beziehungen zum Ausland,FALSE,0
+AI,08,F&E in allgemeine Verwaltung,FALSE,0
+AI,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.0075994329625362995
+AI,11,Öffentliche Sicherheit,FALSE,0.004487932834129012
+AI,12,Rechtssprechung,FALSE,0
+AI,13,Strafvollzug,FALSE,0
+AI,14,Allgemeines Rechtswesen,FALSE,0.0023116646980433143
+AI,15,Feuerwehr,FALSE,5.677604497621865e-4
+AI,16,Verteidigung,FALSE,2.3207498060178592e-4
+AI,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+AI,2,Bildung,TRUE,0.7213743284694142
+AI,21,Obligatorische Schule,FALSE,0.6576290437770214
+AI,22,Sonderschulen,FALSE,0.0015474263693235162
+AI,23,Berufliche Grundbildung,FALSE,0.008233540909294571
+AI,25,Allgemeinbildende Schulen,FALSE,0.053914223243474856
+AI,26,Höhere Berufsbildung,FALSE,0
+AI,27,Hochschulen,FALSE,0
+AI,28,Forschung,FALSE,0
+AI,29,Übriges Bildungswesen,FALSE,5.009417029992481e-5
+AI,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.03145760343734854
+AI,31,Kulturerbe,FALSE,0.0013626071507734895
+AI,32,"Kultur, übrige",FALSE,0.0056197331482718375
+AI,33,Medien,FALSE,0
+AI,34,Sport und Freizeit,FALSE,0.02444076664536247
+AI,35,Kirchen und religiöse Angelegenheiten,FALSE,3.449649294074191e-5
+AI,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+AI,4,Gesundheit,TRUE,2.957188694566363e-4
+AI,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0
+AI,42,Ambulante Krankenpflege,FALSE,0
+AI,43,Gesundheitsprävention,FALSE,0.00029571886945663623
+AI,48,F&E in Gesundheit,FALSE,0
+AI,49,Gesundheitswesen n.a.g.,FALSE,0
+AI,5,Soziale Sicherheit,TRUE,0.005175051889745907
+AI,51,Krankheit und Unfall,FALSE,0.002922323108793979
+AI,52,Invalidität,FALSE,0
+AI,53,Alter + Hinterlassene,FALSE,5.043084725504169e-5
+AI,54,Familie und Jugend,FALSE,6.053489111524434e-5
+AI,55,Arbeitslosigkeit,FALSE,0
+AI,56,Sozialer Wohnungsbau,FALSE,0.0010611837978955591
+AI,57,Sozialhilfe und Asylwesen,FALSE,0.0010805792446860834
+AI,58,F&E in soziale Sicherheit,FALSE,0
+AI,59,Soziale Wohlfahrt n.a.g.,FALSE,0
+AI,6,Verkehr und Nachrichtenübermittlung,TRUE,0.11373787550143707
+AI,61,Strassenverkehr,FALSE,0.08077521161301546
+AI,62,Öffentlicher Verkehr,FALSE,0.032544133347543636
+AI,63,"Verkehr, übrige",FALSE,4.185305408779797e-4
+AI,64,Nachrichtenübermittlung,FALSE,0
+AI,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+AI,7,Umweltschutz und Raumordnung,TRUE,0.024078064442722143
+AI,71,Wasserversorgung,FALSE,0.0012096899850585448
+AI,72,Abwasserbeseitigung,FALSE,0.0016742918465945272
+AI,73,Abfallwirtschaft,FALSE,0.001821309023293611
+AI,74,Verbauungen,FALSE,1.9977773871317155e-4
+AI,75,Arten- und Landschaftsschutz,FALSE,4.001506935499853e-5
+AI,76,Bekämpfung von Umweltverschmutzung,FALSE,2.2539280501861312e-4
+AI,77,Übriger Umweltschutz,FALSE,0.013813604187155507
+AI,78,F&E in Umweltschutz,FALSE,0
+AI,79,Raumordnung,FALSE,0.005093983787533171
+AI,8,Volkswirtschaft,TRUE,0.0237459217060786
+AI,81,Landwirtschaft,FALSE,0.02181722497590846
+AI,82,Forstwirtschaft,FALSE,2.017370127562689e-4
+AI,83,Jagd und Fischerei,FALSE,0
+AI,84,Tourismus,FALSE,0.0016701092077712149
+AI,85,"Industrie, Gewerbe, Handel",FALSE,5.685050964265457e-5
+AI,86,Banken und Versicherungen,FALSE,0
+AI,87,Brennstoffe und Energie,FALSE,0
+AI,88,F&E in Volkswirtschaft,FALSE,0
+AI,89,Sonstige gewerbliche Betriebe,FALSE,0
+AR,0,Allgemeine Verwaltung,TRUE,0.1260410345758273
+AR,01,Legislative und Exekutive,FALSE,0.0223202920042804
+AR,02,Allgemeine Dienste,FALSE,0.10372074257154688
+AR,03,Beziehungen zum Ausland,FALSE,0
+AR,08,F&E in allgemeine Verwaltung,FALSE,0
+AR,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.02556586987616836
+AR,11,Öffentliche Sicherheit,FALSE,0
+AR,12,Rechtssprechung,FALSE,2.6193528167838293e-6
+AR,13,Strafvollzug,FALSE,6.901735817844821e-4
+AR,14,Allgemeines Rechtswesen,FALSE,0.010609402404760134
+AR,15,Feuerwehr,FALSE,0.0045300249911755614
+AR,16,Verteidigung,FALSE,0.0097336495456314
+AR,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+AR,2,Bildung,TRUE,0.4186357792277353
+AR,21,Obligatorische Schule,FALSE,0.4048263268838818
+AR,22,Sonderschulen,FALSE,0.012472720925915604
+AR,23,Berufliche Grundbildung,FALSE,2.504148964597188e-4
+AR,25,Allgemeinbildende Schulen,FALSE,9.854140635479776e-4
+AR,26,Höhere Berufsbildung,FALSE,0
+AR,27,Hochschulen,FALSE,1.1258250208359292e-6
+AR,28,Forschung,FALSE,0
+AR,29,Übriges Bildungswesen,FALSE,9.977663290937557e-5
+AR,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.05172814201887117
+AR,31,Kulturerbe,FALSE,0.0038938783980578795
+AR,32,"Kultur, übrige",FALSE,0.009302783518896417
+AR,33,Medien,FALSE,0.0019469787573849191
+AR,34,Sport und Freizeit,FALSE,0.03397734375159237
+AR,35,Kirchen und religiöse Angelegenheiten,FALSE,0.0026071575929395795
+AR,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+AR,4,Gesundheit,TRUE,0.04723352413589379
+AR,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.03384048602969963
+AR,42,Ambulante Krankenpflege,FALSE,0.01233681387138203
+AR,43,Gesundheitsprävention,FALSE,0.0010296691482361041
+AR,48,F&E in Gesundheit,FALSE,0
+AR,49,Gesundheitswesen n.a.g.,FALSE,2.6555086576026037e-5
+AR,5,Soziale Sicherheit,TRUE,0.13486263460115766
+AR,51,Krankheit und Unfall,FALSE,4.0884566253346236e-4
+AR,52,Invalidität,FALSE,0.02127316171316482
+AR,53,Alter + Hinterlassene,FALSE,0.03464872034892849
+AR,54,Familie und Jugend,FALSE,0.01624103199979527
+AR,55,Arbeitslosigkeit,FALSE,0.002793952057732477
+AR,56,Sozialer Wohnungsbau,FALSE,3.515965565978971e-5
+AR,57,Sozialhilfe und Asylwesen,FALSE,0.05932219265535558
+AR,58,F&E in soziale Sicherheit,FALSE,0
+AR,59,Soziale Wohlfahrt n.a.g.,FALSE,1.3957050798776757e-4
+AR,6,Verkehr und Nachrichtenübermittlung,TRUE,0.13819962676585665
+AR,61,Strassenverkehr,FALSE,0.09759418519522972
+AR,62,Öffentlicher Verkehr,FALSE,0.040517838489284454
+AR,63,"Verkehr, übrige",FALSE,8.760308134246606e-5
+AR,64,Nachrichtenübermittlung,FALSE,0
+AR,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+AR,7,Umweltschutz und Raumordnung,TRUE,0.045243638298734026
+AR,71,Wasserversorgung,FALSE,0.009369000341133875
+AR,72,Abwasserbeseitigung,FALSE,0.00963293849698773
+AR,73,Abfallwirtschaft,FALSE,0.0014809448202297384
+AR,74,Verbauungen,FALSE,0.004650667642560062
+AR,75,Arten- und Landschaftsschutz,FALSE,1.5038324609919167e-5
+AR,76,Bekämpfung von Umweltverschmutzung,FALSE,0.0013559971327320175
+AR,77,Übriger Umweltschutz,FALSE,0.011896559738678352
+AR,78,F&E in Umweltschutz,FALSE,0
+AR,79,Raumordnung,FALSE,0.0068424918018023355
+AR,8,Volkswirtschaft,TRUE,0.012489750499755736
+AR,81,Landwirtschaft,FALSE,0.0022602196089017363
+AR,82,Forstwirtschaft,FALSE,0.0025621694949344498
+AR,83,Jagd und Fischerei,FALSE,9.538226702582956e-6
+AR,84,Tourismus,FALSE,0.003701413504468068
+AR,85,"Industrie, Gewerbe, Handel",FALSE,0.003554448643464886
+AR,86,Banken und Versicherungen,FALSE,0
+AR,87,Brennstoffe und Energie,FALSE,3.081117044157607e-4
+AR,88,F&E in Volkswirtschaft,FALSE,0
+AR,89,Sonstige gewerbliche Betriebe,FALSE,9.384931686825133e-5
+BE,0,Allgemeine Verwaltung,TRUE,0.13643081690018266
+BE,01,Legislative und Exekutive,FALSE,0.019727619322239223
+BE,02,Allgemeine Dienste,FALSE,0.11670319757794344
+BE,03,Beziehungen zum Ausland,FALSE,0
+BE,08,F&E in allgemeine Verwaltung,FALSE,0
+BE,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.051649687455548106
+BE,11,Öffentliche Sicherheit,FALSE,0.021383091069433553
+BE,12,Rechtssprechung,FALSE,5.1808676794680773e-5
+BE,13,Strafvollzug,FALSE,0
+BE,14,Allgemeines Rechtswesen,FALSE,0.01653096347481719
+BE,15,Feuerwehr,FALSE,0.006423044987201629
+BE,16,Verteidigung,FALSE,0.007260779247301054
+BE,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+BE,2,Bildung,TRUE,0.28173758821759304
+BE,21,Obligatorische Schule,FALSE,0.2765507885341234
+BE,22,Sonderschulen,FALSE,0.002098381602515792
+BE,23,Berufliche Grundbildung,FALSE,0.0010203495286008428
+BE,25,Allgemeinbildende Schulen,FALSE,0.0015095235782426684
+BE,26,Höhere Berufsbildung,FALSE,0
+BE,27,Hochschulen,FALSE,0
+BE,28,Forschung,FALSE,0
+BE,29,Übriges Bildungswesen,FALSE,5.585449741103022e-4
+BE,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.0820960402756565
+BE,31,Kulturerbe,FALSE,0.005303298392173924
+BE,32,"Kultur, übrige",FALSE,0.032346566163353095
+BE,33,Medien,FALSE,0.0014473067820933783
+BE,34,Sport und Freizeit,FALSE,0.04287461210340872
+BE,35,Kirchen und religiöse Angelegenheiten,FALSE,1.2425683462739397e-4
+BE,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+BE,4,Gesundheit,TRUE,0.010630723658753227
+BE,41,"Spitäler, Kranken- und Pflegeheime",FALSE,7.104611610792655e-4
+BE,42,Ambulante Krankenpflege,FALSE,0.003950770174895148
+BE,43,Gesundheitsprävention,FALSE,0.005549770166869832
+BE,48,F&E in Gesundheit,FALSE,0
+BE,49,Gesundheitswesen n.a.g.,FALSE,4.19722155908982e-4
+BE,5,Soziale Sicherheit,TRUE,0.2517146967604097
+BE,51,Krankheit und Unfall,FALSE,5.022094046415762e-5
+BE,52,Invalidität,FALSE,0.04201193221515385
+BE,53,Alter + Hinterlassene,FALSE,0.057378228311950115
+BE,54,Familie und Jugend,FALSE,0.050807931148814926
+BE,55,Arbeitslosigkeit,FALSE,0.0057030956120052816
+BE,56,Sozialer Wohnungsbau,FALSE,6.79088116796639e-4
+BE,57,Sozialhilfe und Asylwesen,FALSE,0.0945948339325816
+BE,58,F&E in soziale Sicherheit,FALSE,0
+BE,59,Soziale Wohlfahrt n.a.g.,FALSE,4.893664826431231e-4
+BE,6,Verkehr und Nachrichtenübermittlung,TRUE,0.1506089009585636
+BE,61,Strassenverkehr,FALSE,0.1049980846885305
+BE,62,Öffentlicher Verkehr,FALSE,0.045192829696977195
+BE,63,"Verkehr, übrige",FALSE,3.808374682400335e-4
+BE,64,Nachrichtenübermittlung,FALSE,3.714910481588615e-5
+BE,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+BE,7,Umweltschutz und Raumordnung,TRUE,0.024121326380309973
+BE,71,Wasserversorgung,FALSE,0.001626442820859918
+BE,72,Abwasserbeseitigung,FALSE,0
+BE,73,Abfallwirtschaft,FALSE,0.0010095968035001262
+BE,74,Verbauungen,FALSE,0.005936787570608752
+BE,75,Arten- und Landschaftsschutz,FALSE,7.564772656438107e-4
+BE,76,Bekämpfung von Umweltverschmutzung,FALSE,0.0011215934912021342
+BE,77,Übriger Umweltschutz,FALSE,0.008832760008957625
+BE,78,F&E in Umweltschutz,FALSE,0
+BE,79,Raumordnung,FALSE,0.004837668419537609
+BE,8,Volkswirtschaft,TRUE,0.011010219392983165
+BE,81,Landwirtschaft,FALSE,0.0011018645946954948
+BE,82,Forstwirtschaft,FALSE,3.8014555965364984e-4
+BE,83,Jagd und Fischerei,FALSE,9.97183629364325e-6
+BE,84,Tourismus,FALSE,0.008238035362736
+BE,85,"Industrie, Gewerbe, Handel",FALSE,0.0012802020396043754
+BE,86,Banken und Versicherungen,FALSE,0
+BE,87,Brennstoffe und Energie,FALSE,0
+BE,88,F&E in Volkswirtschaft,FALSE,0
+BE,89,Sonstige gewerbliche Betriebe,FALSE,0
+BL,0,Allgemeine Verwaltung,TRUE,0.1469688807734132
+BL,01,Legislative und Exekutive,FALSE,0.019952444404048097
+BL,02,Allgemeine Dienste,FALSE,0.1270164363693651
+BL,03,Beziehungen zum Ausland,FALSE,0
+BL,08,F&E in allgemeine Verwaltung,FALSE,0
+BL,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.029969282839554395
+BL,11,Öffentliche Sicherheit,FALSE,0.0035502742143226616
+BL,12,Rechtssprechung,FALSE,0
+BL,13,Strafvollzug,FALSE,0
+BL,14,Allgemeines Rechtswesen,FALSE,0.013755301989871974
+BL,15,Feuerwehr,FALSE,0.006725689037889439
+BL,16,Verteidigung,FALSE,0.0059380175974703174
+BL,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+BL,2,Bildung,TRUE,0.38816770418055113
+BL,21,Obligatorische Schule,FALSE,0.38592405330026736
+BL,22,Sonderschulen,FALSE,0.0018031071894318283
+BL,23,Berufliche Grundbildung,FALSE,2.3684265218072505e-5
+BL,25,Allgemeinbildende Schulen,FALSE,0
+BL,26,Höhere Berufsbildung,FALSE,0
+BL,27,Hochschulen,FALSE,0
+BL,28,Forschung,FALSE,0
+BL,29,Übriges Bildungswesen,FALSE,4.1685942563386203e-4
+BL,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.0508470198319208
+BL,31,Kulturerbe,FALSE,0.00208255364051486
+BL,32,"Kultur, übrige",FALSE,0.01056661489178598
+BL,33,Medien,FALSE,0
+BL,34,Sport und Freizeit,FALSE,0.038073364594728785
+BL,35,Kirchen und religiöse Angelegenheiten,FALSE,1.2448670489117414e-4
+BL,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+BL,4,Gesundheit,TRUE,0.06701660714272968
+BL,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.03314053033801329
+BL,42,Ambulante Krankenpflege,FALSE,0.0303392120528633
+BL,43,Gesundheitsprävention,FALSE,0.0031802850910068237
+BL,48,F&E in Gesundheit,FALSE,0
+BL,49,Gesundheitswesen n.a.g.,FALSE,3.5657966084626724e-4
+BL,5,Soziale Sicherheit,TRUE,0.18497817026334548
+BL,51,Krankheit und Unfall,FALSE,0
+BL,52,Invalidität,FALSE,0.018553794805248894
+BL,53,Alter + Hinterlassene,FALSE,0.04681451089759046
+BL,54,Familie und Jugend,FALSE,0.015814939646634434
+BL,55,Arbeitslosigkeit,FALSE,0.002685843332496629
+BL,56,Sozialer Wohnungsbau,FALSE,0.001657797654071789
+BL,57,Sozialhilfe und Asylwesen,FALSE,0.09835969799345436
+BL,58,F&E in soziale Sicherheit,FALSE,0
+BL,59,Soziale Wohlfahrt n.a.g.,FALSE,0.0010915859338489087
+BL,6,Verkehr und Nachrichtenübermittlung,TRUE,0.10010521944886998
+BL,61,Strassenverkehr,FALSE,0.09633524113307537
+BL,62,Öffentlicher Verkehr,FALSE,0.003740869382506202
+BL,63,"Verkehr, übrige",FALSE,2.9108933288399745e-5
+BL,64,Nachrichtenübermittlung,FALSE,0
+BL,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+BL,7,Umweltschutz und Raumordnung,TRUE,0.028368844825467733
+BL,71,Wasserversorgung,FALSE,0.0057346025406992416
+BL,72,Abwasserbeseitigung,FALSE,2.1231772581782317e-4
+BL,73,Abfallwirtschaft,FALSE,0.0024891320982532886
+BL,74,Verbauungen,FALSE,9.245311880898512e-4
+BL,75,Arten- und Landschaftsschutz,FALSE,0.0012302100775823841
+BL,76,Bekämpfung von Umweltverschmutzung,FALSE,4.1024894306145433e-4
+BL,77,Übriger Umweltschutz,FALSE,0.01126054975788703
+BL,78,F&E in Umweltschutz,FALSE,0
+BL,79,Raumordnung,FALSE,0.0061072524940766594
+BL,8,Volkswirtschaft,TRUE,0.003578270694147638
+BL,81,Landwirtschaft,FALSE,8.013344738231863e-4
+BL,82,Forstwirtschaft,FALSE,0.002141319422796162
+BL,83,Jagd und Fischerei,FALSE,0
+BL,84,Tourismus,FALSE,7.151843015019593e-5
+BL,85,"Industrie, Gewerbe, Handel",FALSE,4.638050737451063e-4
+BL,86,Banken und Versicherungen,FALSE,0
+BL,87,Brennstoffe und Energie,FALSE,0
+BL,88,F&E in Volkswirtschaft,FALSE,0
+BL,89,Sonstige gewerbliche Betriebe,FALSE,1.0029329363298748e-4
+BS,0,Allgemeine Verwaltung,TRUE,0.10487476549065959
+BS,01,Legislative und Exekutive,FALSE,0.023477155917777343
+BS,02,Allgemeine Dienste,FALSE,0.08139760957288225
+BS,03,Beziehungen zum Ausland,FALSE,0
+BS,08,F&E in allgemeine Verwaltung,FALSE,0
+BS,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.004494032251759507
+BS,11,Öffentliche Sicherheit,FALSE,0
+BS,12,Rechtssprechung,FALSE,2.6776332455933942e-6
+BS,13,Strafvollzug,FALSE,0
+BS,14,Allgemeines Rechtswesen,FALSE,0.004177737115715422
+BS,15,Feuerwehr,FALSE,4.210989041173668e-6
+BS,16,Verteidigung,FALSE,3.094065137573169e-4
+BS,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+BS,2,Bildung,TRUE,0.31852350166798016
+BS,21,Obligatorische Schule,FALSE,0.3162649121696805
+BS,22,Sonderschulen,FALSE,0
+BS,23,Berufliche Grundbildung,FALSE,0
+BS,25,Allgemeinbildende Schulen,FALSE,0
+BS,26,Höhere Berufsbildung,FALSE,0
+BS,27,Hochschulen,FALSE,0
+BS,28,Forschung,FALSE,0
+BS,29,Übriges Bildungswesen,FALSE,0.002258589498299652
+BS,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.1281928391313549
+BS,31,Kulturerbe,FALSE,0.01547753782867576
+BS,32,"Kultur, übrige",FALSE,0.024756013048503722
+BS,33,Medien,FALSE,0
+BS,34,Sport und Freizeit,FALSE,0.08795928825417543
+BS,35,Kirchen und religiöse Angelegenheiten,FALSE,0
+BS,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+BS,4,Gesundheit,TRUE,0.10277669658324327
+BS,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.016723493382922523
+BS,42,Ambulante Krankenpflege,FALSE,0.0769312592638848
+BS,43,Gesundheitsprävention,FALSE,0.0063730681657986725
+BS,48,F&E in Gesundheit,FALSE,0
+BS,49,Gesundheitswesen n.a.g.,FALSE,0.00274887577063728
+BS,5,Soziale Sicherheit,TRUE,0.1656645047469829
+BS,51,Krankheit und Unfall,FALSE,0
+BS,52,Invalidität,FALSE,0
+BS,53,Alter + Hinterlassene,FALSE,0.006124772366751755
+BS,54,Familie und Jugend,FALSE,0.02581154660539483
+BS,55,Arbeitslosigkeit,FALSE,0
+BS,56,Sozialer Wohnungsbau,FALSE,3.459136637288825e-4
+BS,57,Sozialhilfe und Asylwesen,FALSE,0.12528066644331656
+BS,58,F&E in soziale Sicherheit,FALSE,0
+BS,59,Soziale Wohlfahrt n.a.g.,FALSE,0.00810160566779089
+BS,6,Verkehr und Nachrichtenübermittlung,TRUE,0.14134139945002602
+BS,61,Strassenverkehr,FALSE,0.10473009254620105
+BS,62,Öffentlicher Verkehr,FALSE,0.03661130690382497
+BS,63,"Verkehr, übrige",FALSE,0
+BS,64,Nachrichtenübermittlung,FALSE,0
+BS,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+BS,7,Umweltschutz und Raumordnung,TRUE,0.026064403396477722
+BS,71,Wasserversorgung,FALSE,2.113087935431117e-4
+BS,72,Abwasserbeseitigung,FALSE,0
+BS,73,Abfallwirtschaft,FALSE,0.008400378925505882
+BS,74,Verbauungen,FALSE,1.438002965284779e-4
+BS,75,Arten- und Landschaftsschutz,FALSE,0.001051554771298816
+BS,76,Bekämpfung von Umweltverschmutzung,FALSE,1.4810427544604995e-5
+BS,77,Übriger Umweltschutz,FALSE,0.009803228584001936
+BS,78,F&E in Umweltschutz,FALSE,0
+BS,79,Raumordnung,FALSE,0.006439321598054895
+BS,8,Volkswirtschaft,TRUE,0.008067857281515869
+BS,81,Landwirtschaft,FALSE,0.0031473760779088906
+BS,82,Forstwirtschaft,FALSE,0.0023860895727097426
+BS,83,Jagd und Fischerei,FALSE,0
+BS,84,Tourismus,FALSE,0
+BS,85,"Industrie, Gewerbe, Handel",FALSE,6.130378428049261e-6
+BS,86,Banken und Versicherungen,FALSE,0
+BS,87,Brennstoffe und Energie,FALSE,0.002272686882387697
+BS,88,F&E in Volkswirtschaft,FALSE,0
+BS,89,Sonstige gewerbliche Betriebe,FALSE,2.55574370081491e-4
+FR,0,Allgemeine Verwaltung,TRUE,0.1217172218329864
+FR,01,Legislative und Exekutive,FALSE,0.017741240497306462
+FR,02,Allgemeine Dienste,FALSE,0.10397598133567994
+FR,03,Beziehungen zum Ausland,FALSE,0
+FR,08,F&E in allgemeine Verwaltung,FALSE,0
+FR,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.01595493690734355
+FR,11,Öffentliche Sicherheit,FALSE,0
+FR,12,Rechtssprechung,FALSE,0
+FR,13,Strafvollzug,FALSE,0
+FR,14,Allgemeines Rechtswesen,FALSE,0.00989096526678986
+FR,15,Feuerwehr,FALSE,0.0036015870885003887
+FR,16,Verteidigung,FALSE,0.0024623845520533013
+FR,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+FR,2,Bildung,TRUE,0.40292077918717634
+FR,21,Obligatorische Schule,FALSE,0.3363221810452073
+FR,22,Sonderschulen,FALSE,0.052382515373764524
+FR,23,Berufliche Grundbildung,FALSE,0.013607151781306342
+FR,25,Allgemeinbildende Schulen,FALSE,3.648244024939018e-4
+FR,26,Höhere Berufsbildung,FALSE,0
+FR,27,Hochschulen,FALSE,0
+FR,28,Forschung,FALSE,0
+FR,29,Übriges Bildungswesen,FALSE,2.4410658440424948e-4
+FR,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.06223686726090078
+FR,31,Kulturerbe,FALSE,0.004778091696244541
+FR,32,"Kultur, übrige",FALSE,0.021081643423155407
+FR,33,Medien,FALSE,2.5996386712402617e-4
+FR,34,Sport und Freizeit,FALSE,0.03584134746425519
+FR,35,Kirchen und religiöse Angelegenheiten,FALSE,2.7582081012161944e-4
+FR,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+FR,4,Gesundheit,TRUE,0.11050298638303546
+FR,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.07725335260829541
+FR,42,Ambulante Krankenpflege,FALSE,0.03118742637081482
+FR,43,Gesundheitsprävention,FALSE,0.0020067939606464268
+FR,48,F&E in Gesundheit,FALSE,0
+FR,49,Gesundheitswesen n.a.g.,FALSE,5.5413443278802336e-5
+FR,5,Soziale Sicherheit,TRUE,0.13765075549007716
+FR,51,Krankheit und Unfall,FALSE,0
+FR,52,Invalidität,FALSE,0.055822078178823516
+FR,53,Alter + Hinterlassene,FALSE,0.001885472813504575
+FR,54,Familie und Jugend,FALSE,0.029840051003572263
+FR,55,Arbeitslosigkeit,FALSE,0.0060513758690557695
+FR,56,Sozialer Wohnungsbau,FALSE,0.0020736047358521905
+FR,57,Sozialhilfe und Asylwesen,FALSE,0.041832365011205505
+FR,58,F&E in soziale Sicherheit,FALSE,0
+FR,59,Soziale Wohlfahrt n.a.g.,FALSE,1.4580787806335032e-4
+FR,6,Verkehr und Nachrichtenübermittlung,TRUE,0.1219199058356896
+FR,61,Strassenverkehr,FALSE,0.09019288266102915
+FR,62,Öffentlicher Verkehr,FALSE,0.029692959216969263
+FR,63,"Verkehr, übrige",FALSE,0.002034063957691189
+FR,64,Nachrichtenübermittlung,FALSE,0
+FR,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+FR,7,Umweltschutz und Raumordnung,TRUE,0.014063835712807244
+FR,71,Wasserversorgung,FALSE,6.16825943301261e-4
+FR,72,Abwasserbeseitigung,FALSE,0
+FR,73,Abfallwirtschaft,FALSE,0.0014775464987473949
+FR,74,Verbauungen,FALSE,0.002793016938457392
+FR,75,Arten- und Landschaftsschutz,FALSE,4.7596574121108254e-4
+FR,76,Bekämpfung von Umweltverschmutzung,FALSE,0.0019674173804913072
+FR,77,Übriger Umweltschutz,FALSE,0.006733063210598807
+FR,78,F&E in Umweltschutz,FALSE,0
+FR,79,Raumordnung,FALSE,0
+FR,8,Volkswirtschaft,TRUE,0.0130327113899835
+FR,81,Landwirtschaft,FALSE,0.0011420072133874887
+FR,82,Forstwirtschaft,FALSE,0.0015372897607596363
+FR,83,Jagd und Fischerei,FALSE,0
+FR,84,Tourismus,FALSE,0.0027798957699221504
+FR,85,"Industrie, Gewerbe, Handel",FALSE,0.005235039886128028
+FR,86,Banken und Versicherungen,FALSE,0
+FR,87,Brennstoffe und Energie,FALSE,0.0023384787597861972
+FR,88,F&E in Volkswirtschaft,FALSE,0
+FR,89,Sonstige gewerbliche Betriebe,FALSE,0
+GE,0,Allgemeine Verwaltung,TRUE,0.1574046767702974
+GE,01,Legislative und Exekutive,FALSE,0.011125287040040647
+GE,02,Allgemeine Dienste,FALSE,0.14627938973025675
+GE,03,Beziehungen zum Ausland,FALSE,0
+GE,08,F&E in allgemeine Verwaltung,FALSE,0
+GE,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.0837718572634431
+GE,11,Öffentliche Sicherheit,FALSE,0.04010789672861292
+GE,12,Rechtssprechung,FALSE,0
+GE,13,Strafvollzug,FALSE,2.934195287730915e-5
+GE,14,Allgemeines Rechtswesen,FALSE,0.0071877924289809525
+GE,15,Feuerwehr,FALSE,0.03202858907052501
+GE,16,Verteidigung,FALSE,0.004418237082446906
+GE,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+GE,2,Bildung,TRUE,0.09491202150154988
+GE,21,Obligatorische Schule,FALSE,0.09414022916755825
+GE,22,Sonderschulen,FALSE,2.726435525706895e-5
+GE,23,Berufliche Grundbildung,FALSE,1.0361184700653458e-4
+GE,25,Allgemeinbildende Schulen,FALSE,0
+GE,26,Höhere Berufsbildung,FALSE,0
+GE,27,Hochschulen,FALSE,0
+GE,28,Forschung,FALSE,0
+GE,29,Übriges Bildungswesen,FALSE,6.409161317280316e-4
+GE,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.3041856140084563
+GE,31,Kulturerbe,FALSE,0.05491441540444039
+GE,32,"Kultur, übrige",FALSE,0.1198615933030859
+GE,33,Medien,FALSE,0.0025189847025821025
+GE,34,Sport und Freizeit,FALSE,0.12688623634952192
+GE,35,Kirchen und religiöse Angelegenheiten,FALSE,4.384248825944674e-6
+GE,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+GE,4,Gesundheit,TRUE,4.283480669292009e-5
+GE,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0
+GE,42,Ambulante Krankenpflege,FALSE,4.095584962922085e-5
+GE,43,Gesundheitsprävention,FALSE,7.978524888593131e-7
+GE,48,F&E in Gesundheit,FALSE,0
+GE,49,Gesundheitswesen n.a.g.,FALSE,1.0811045748399265e-6
+GE,5,Soziale Sicherheit,TRUE,0.1860246143260574
+GE,51,Krankheit und Unfall,FALSE,0
+GE,52,Invalidität,FALSE,2.3596026373753714e-4
+GE,53,Alter + Hinterlassene,FALSE,0.011158286905405402
+GE,54,Familie und Jugend,FALSE,0.12636232812617318
+GE,55,Arbeitslosigkeit,FALSE,0.0030742710720426574
+GE,56,Sozialer Wohnungsbau,FALSE,0.005221831574782013
+GE,57,Sozialhilfe und Asylwesen,FALSE,0.03238387625392204
+GE,58,F&E in soziale Sicherheit,FALSE,0
+GE,59,Soziale Wohlfahrt n.a.g.,FALSE,0.007588060129994576
+GE,6,Verkehr und Nachrichtenübermittlung,TRUE,0.06911535380788383
+GE,61,Strassenverkehr,FALSE,0.06255570985119877
+GE,62,Öffentlicher Verkehr,FALSE,0.006407382753561403
+GE,63,"Verkehr, übrige",FALSE,1.5226120312365524e-4
+GE,64,Nachrichtenübermittlung,FALSE,0
+GE,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+GE,7,Umweltschutz und Raumordnung,TRUE,0.10371588899736374
+GE,71,Wasserversorgung,FALSE,0.001654920074772591
+GE,72,Abwasserbeseitigung,FALSE,0.011562302747251986
+GE,73,Abfallwirtschaft,FALSE,0.06792249854207094
+GE,74,Verbauungen,FALSE,0
+GE,75,Arten- und Landschaftsschutz,FALSE,2.908094252654276e-4
+GE,76,Bekämpfung von Umweltverschmutzung,FALSE,0.0019973181018261284
+GE,77,Übriger Umweltschutz,FALSE,0.01297493192222343
+GE,78,F&E in Umweltschutz,FALSE,0
+GE,79,Raumordnung,FALSE,0.007313108183953226
+GE,8,Volkswirtschaft,TRUE,8.271385182554588e-4
+GE,81,Landwirtschaft,FALSE,0
+GE,82,Forstwirtschaft,FALSE,0
+GE,83,Jagd und Fischerei,FALSE,0
+GE,84,Tourismus,FALSE,0
+GE,85,"Industrie, Gewerbe, Handel",FALSE,2.6130266204448925e-5
+GE,86,Banken und Versicherungen,FALSE,0
+GE,87,Brennstoffe und Energie,FALSE,8.010082520510099e-4
+GE,88,F&E in Volkswirtschaft,FALSE,0
+GE,89,Sonstige gewerbliche Betriebe,FALSE,0
+GL,0,Allgemeine Verwaltung,TRUE,0.10694833109242245
+GL,01,Legislative und Exekutive,FALSE,0.02709013399199916
+GL,02,Allgemeine Dienste,FALSE,0.07985819710042329
+GL,03,Beziehungen zum Ausland,FALSE,0
+GL,08,F&E in allgemeine Verwaltung,FALSE,0
+GL,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.02833961803240919
+GL,11,Öffentliche Sicherheit,FALSE,3.1444564417066695e-4
+GL,12,Rechtssprechung,FALSE,5.403509573178054e-4
+GL,13,Strafvollzug,FALSE,0
+GL,14,Allgemeines Rechtswesen,FALSE,0.009238300470187144
+GL,15,Feuerwehr,FALSE,0.004082413229587676
+GL,16,Verteidigung,FALSE,0.014164107731145898
+GL,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+GL,2,Bildung,TRUE,0.5348706458507904
+GL,21,Obligatorische Schule,FALSE,0.5323518066535377
+GL,22,Sonderschulen,FALSE,0.0015522932093151396
+GL,23,Berufliche Grundbildung,FALSE,3.7234336478815178e-6
+GL,25,Allgemeinbildende Schulen,FALSE,1.8827996088718334e-4
+GL,26,Höhere Berufsbildung,FALSE,0
+GL,27,Hochschulen,FALSE,0
+GL,28,Forschung,FALSE,0
+GL,29,Übriges Bildungswesen,FALSE,7.745425934025029e-4
+GL,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.041817452968323794
+GL,31,Kulturerbe,FALSE,0.0028571841990334577
+GL,32,"Kultur, übrige",FALSE,0.010582091919614105
+GL,33,Medien,FALSE,0
+GL,34,Sport und Freizeit,FALSE,0.028074745486535192
+GL,35,Kirchen und religiöse Angelegenheiten,FALSE,3.0343136314103574e-4
+GL,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+GL,4,Gesundheit,TRUE,0.05835869592374473
+GL,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.045764612065410985
+GL,42,Ambulante Krankenpflege,FALSE,0.011927809014838723
+GL,43,Gesundheitsprävention,FALSE,3.672834489887871e-4
+GL,48,F&E in Gesundheit,FALSE,0
+GL,49,Gesundheitswesen n.a.g.,FALSE,2.9899139450623657e-4
+GL,5,Soziale Sicherheit,TRUE,0.014462022546534671
+GL,51,Krankheit und Unfall,FALSE,0
+GL,52,Invalidität,FALSE,1.2544674148377163e-4
+GL,53,Alter + Hinterlassene,FALSE,0.002925057761035188
+GL,54,Familie und Jugend,FALSE,0.006747903881424324
+GL,55,Arbeitslosigkeit,FALSE,0
+GL,56,Sozialer Wohnungsbau,FALSE,0
+GL,57,Sozialhilfe und Asylwesen,FALSE,0.004513246192958646
+GL,58,F&E in soziale Sicherheit,FALSE,0
+GL,59,Soziale Wohlfahrt n.a.g.,FALSE,1.503679696327418e-4
+GL,6,Verkehr und Nachrichtenübermittlung,TRUE,0.1252433517137617
+GL,61,Strassenverkehr,FALSE,0.11992904802800226
+GL,62,Öffentlicher Verkehr,FALSE,0.004565683341922655
+GL,63,"Verkehr, übrige",FALSE,7.486203438367777e-4
+GL,64,Nachrichtenübermittlung,FALSE,0
+GL,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+GL,7,Umweltschutz und Raumordnung,TRUE,0.056854420436324445
+GL,71,Wasserversorgung,FALSE,0.0052681276744628155
+GL,72,Abwasserbeseitigung,FALSE,0.0028473582209611083
+GL,73,Abfallwirtschaft,FALSE,0
+GL,74,Verbauungen,FALSE,0.0211590381697929
+GL,75,Arten- und Landschaftsschutz,FALSE,4.2808310981424597e-4
+GL,76,Bekämpfung von Umweltverschmutzung,FALSE,1.1656862870473245e-4
+GL,77,Übriger Umweltschutz,FALSE,0.006694002207643771
+GL,78,F&E in Umweltschutz,FALSE,0
+GL,79,Raumordnung,FALSE,0.020341242424944873
+GL,8,Volkswirtschaft,TRUE,0.03310546143568869
+GL,81,Landwirtschaft,FALSE,0.014195490278190453
+GL,82,Forstwirtschaft,FALSE,0.015155316366864341
+GL,83,Jagd und Fischerei,FALSE,1.8580609445795066e-4
+GL,84,Tourismus,FALSE,0.0025063589803566693
+GL,85,"Industrie, Gewerbe, Handel",FALSE,0.0010624897158192721
+GL,86,Banken und Versicherungen,FALSE,0
+GL,87,Brennstoffe und Energie,FALSE,0
+GL,88,F&E in Volkswirtschaft,FALSE,0
+GL,89,Sonstige gewerbliche Betriebe,FALSE,0
+GR,0,Allgemeine Verwaltung,TRUE,0.12891880756344054
+GR,01,Legislative und Exekutive,FALSE,0.0239061502657517
+GR,02,Allgemeine Dienste,FALSE,0.10501265729768884
+GR,03,Beziehungen zum Ausland,FALSE,0
+GR,08,F&E in allgemeine Verwaltung,FALSE,0
+GR,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.04385432908120673
+GR,11,Öffentliche Sicherheit,FALSE,0.02200168890269448
+GR,12,Rechtssprechung,FALSE,0.009635775743091003
+GR,13,Strafvollzug,FALSE,0
+GR,14,Allgemeines Rechtswesen,FALSE,8.012822665974765e-4
+GR,15,Feuerwehr,FALSE,0.007834626043448511
+GR,16,Verteidigung,FALSE,0.003580956125375264
+GR,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+GR,2,Bildung,TRUE,0.3042037588296006
+GR,21,Obligatorische Schule,FALSE,0.268953024040244
+GR,22,Sonderschulen,FALSE,0.005152225467281294
+GR,23,Berufliche Grundbildung,FALSE,0.029329411853086632
+GR,25,Allgemeinbildende Schulen,FALSE,7.600933075337925e-4
+GR,26,Höhere Berufsbildung,FALSE,0
+GR,27,Hochschulen,FALSE,7.977484410594294e-6
+GR,28,Forschung,FALSE,0
+GR,29,Übriges Bildungswesen,FALSE,1.02667704425589e-6
+GR,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.09478632491891795
+GR,31,Kulturerbe,FALSE,0.003712369207099585
+GR,32,"Kultur, übrige",FALSE,0.019654101664090748
+GR,33,Medien,FALSE,2.1097657827845773e-4
+GR,34,Sport und Freizeit,FALSE,0.07101346928930655
+GR,35,Kirchen und religiöse Angelegenheiten,FALSE,1.954081801426127e-4
+GR,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+GR,4,Gesundheit,TRUE,0.06814621855446269
+GR,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.05596283310471979
+GR,42,Ambulante Krankenpflege,FALSE,0.010143346729346664
+GR,43,Gesundheitsprävention,FALSE,0.0015115842217760605
+GR,48,F&E in Gesundheit,FALSE,0
+GR,49,Gesundheitswesen n.a.g.,FALSE,5.284544986201758e-4
+GR,5,Soziale Sicherheit,TRUE,0.05155186404453805
+GR,51,Krankheit und Unfall,FALSE,0
+GR,52,Invalidität,FALSE,1.3759561421136744e-5
+GR,53,Alter + Hinterlassene,FALSE,0.009481448258849712
+GR,54,Familie und Jugend,FALSE,0.00946009658640318
+GR,55,Arbeitslosigkeit,FALSE,0
+GR,56,Sozialer Wohnungsbau,FALSE,3.001488039850409e-4
+GR,57,Sozialhilfe und Asylwesen,FALSE,0.0319745885477157
+GR,58,F&E in soziale Sicherheit,FALSE,0
+GR,59,Soziale Wohlfahrt n.a.g.,FALSE,3.2182228616327703e-4
+GR,6,Verkehr und Nachrichtenübermittlung,TRUE,0.18282058218423863
+GR,61,Strassenverkehr,FALSE,0.15380432463063
+GR,62,Öffentlicher Verkehr,FALSE,0.026962909576383757
+GR,63,"Verkehr, übrige",FALSE,0.0020533479772248575
+GR,64,Nachrichtenübermittlung,FALSE,0
+GR,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+GR,7,Umweltschutz und Raumordnung,TRUE,0.04149263361972631
+GR,71,Wasserversorgung,FALSE,0.01859934156979591
+GR,72,Abwasserbeseitigung,FALSE,2.5275458625677105e-4
+GR,73,Abfallwirtschaft,FALSE,0
+GR,74,Verbauungen,FALSE,0.0069743174930768734
+GR,75,Arten- und Landschaftsschutz,FALSE,0.0013209693764386385
+GR,76,Bekämpfung von Umweltverschmutzung,FALSE,0.0017992492991074109
+GR,77,Übriger Umweltschutz,FALSE,0.005850412897332482
+GR,78,F&E in Umweltschutz,FALSE,0
+GR,79,Raumordnung,FALSE,0.006695588397718228
+GR,8,Volkswirtschaft,TRUE,0.08422548120386851
+GR,81,Landwirtschaft,FALSE,0.01077454398394765
+GR,82,Forstwirtschaft,FALSE,0.00997504396219532
+GR,83,Jagd und Fischerei,FALSE,2.850949244121195e-6
+GR,84,Tourismus,FALSE,0.05590827948471364
+GR,85,"Industrie, Gewerbe, Handel",FALSE,0.007564762823767783
+GR,86,Banken und Versicherungen,FALSE,0
+GR,87,Brennstoffe und Energie,FALSE,0
+GR,88,F&E in Volkswirtschaft,FALSE,0
+GR,89,Sonstige gewerbliche Betriebe,FALSE,0
+JU,0,Allgemeine Verwaltung,TRUE,0.11529551814209854
+JU,01,Legislative und Exekutive,FALSE,0.01783910246928291
+JU,02,Allgemeine Dienste,FALSE,0.09745641567281564
+JU,03,Beziehungen zum Ausland,FALSE,0
+JU,08,F&E in allgemeine Verwaltung,FALSE,0
+JU,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.024387449588813132
+JU,11,Öffentliche Sicherheit,FALSE,0.021732111548476006
+JU,12,Rechtssprechung,FALSE,0
+JU,13,Strafvollzug,FALSE,8.515721525263557e-4
+JU,14,Allgemeines Rechtswesen,FALSE,0
+JU,15,Feuerwehr,FALSE,0
+JU,16,Verteidigung,FALSE,0.001803765887810769
+JU,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+JU,2,Bildung,TRUE,0.45570982068266475
+JU,21,Obligatorische Schule,FALSE,0.4032434128328118
+JU,22,Sonderschulen,FALSE,0.050729375022108086
+JU,23,Berufliche Grundbildung,FALSE,0.0017074229677078324
+JU,25,Allgemeinbildende Schulen,FALSE,0
+JU,26,Höhere Berufsbildung,FALSE,0
+JU,27,Hochschulen,FALSE,0
+JU,28,Forschung,FALSE,0
+JU,29,Übriges Bildungswesen,FALSE,2.9609860037067334e-5
+JU,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.042530719923649485
+JU,31,Kulturerbe,FALSE,4.3942446360009836e-4
+JU,32,"Kultur, übrige",FALSE,0.018541435055129753
+JU,33,Medien,FALSE,8.13133202656471e-5
+JU,34,Sport und Freizeit,FALSE,0.023388544577515897
+JU,35,Kirchen und religiöse Angelegenheiten,FALSE,8.000250713808969e-5
+JU,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+JU,4,Gesundheit,TRUE,0.010627922013359124
+JU,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.004827890565761719
+JU,42,Ambulante Krankenpflege,FALSE,0.0028158919113110497
+JU,43,Gesundheitsprävention,FALSE,0.0028793853133045797
+JU,48,F&E in Gesundheit,FALSE,0
+JU,49,Gesundheitswesen n.a.g.,FALSE,1.0475422298177559e-4
+JU,5,Soziale Sicherheit,TRUE,0.18253260271115537
+JU,51,Krankheit und Unfall,FALSE,0.03482859717683787
+JU,52,Invalidität,FALSE,0.01028402369266782
+JU,53,Alter + Hinterlassene,FALSE,0.04384786656918075
+JU,54,Familie und Jugend,FALSE,0.05184083351418057
+JU,55,Arbeitslosigkeit,FALSE,0.015459025868283146
+JU,56,Sozialer Wohnungsbau,FALSE,0.0023889145383383494
+JU,57,Sozialhilfe und Asylwesen,FALSE,0.023729047503991033
+JU,58,F&E in soziale Sicherheit,FALSE,0
+JU,59,Soziale Wohlfahrt n.a.g.,FALSE,1.5429384767583822e-4
+JU,6,Verkehr und Nachrichtenübermittlung,TRUE,0.14118931179537553
+JU,61,Strassenverkehr,FALSE,0.1324073685626539
+JU,62,Öffentlicher Verkehr,FALSE,0.008777503045128374
+JU,63,"Verkehr, übrige",FALSE,4.440187593238716e-6
+JU,64,Nachrichtenübermittlung,FALSE,0
+JU,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+JU,7,Umweltschutz und Raumordnung,TRUE,0.024534638443034874
+JU,71,Wasserversorgung,FALSE,0
+JU,72,Abwasserbeseitigung,FALSE,0.0031335777833923317
+JU,73,Abfallwirtschaft,FALSE,9.638406383213859e-4
+JU,74,Verbauungen,FALSE,0.0029391117831328623
+JU,75,Arten- und Landschaftsschutz,FALSE,1.395883503827125e-4
+JU,76,Bekämpfung von Umweltverschmutzung,FALSE,4.9456509568957805e-5
+JU,77,Übriger Umweltschutz,FALSE,0.0031092923580871017
+JU,78,F&E in Umweltschutz,FALSE,0
+JU,79,Raumordnung,FALSE,0.01419977102014952
+JU,8,Volkswirtschaft,TRUE,0.00319201669984919
+JU,81,Landwirtschaft,FALSE,9.404334908082522e-4
+JU,82,Forstwirtschaft,FALSE,3.0147830086268133e-4
+JU,83,Jagd und Fischerei,FALSE,3.9133292097507726e-6
+JU,84,Tourismus,FALSE,5.536710172703752e-4
+JU,85,"Industrie, Gewerbe, Handel",FALSE,0.0013188170295907074
+JU,86,Banken und Versicherungen,FALSE,0
+JU,87,Brennstoffe und Energie,FALSE,0
+JU,88,F&E in Volkswirtschaft,FALSE,0
+JU,89,Sonstige gewerbliche Betriebe,FALSE,7.37035321074231e-5
+LU,0,Allgemeine Verwaltung,TRUE,0.10838450445507908
+LU,01,Legislative und Exekutive,FALSE,0.023437743182222054
+LU,02,Allgemeine Dienste,FALSE,0.08494676127285702
+LU,03,Beziehungen zum Ausland,FALSE,0
+LU,08,F&E in allgemeine Verwaltung,FALSE,0
+LU,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.01876647699061134
+LU,11,Öffentliche Sicherheit,FALSE,0.002465963053460636
+LU,12,Rechtssprechung,FALSE,0
+LU,13,Strafvollzug,FALSE,0
+LU,14,Allgemeines Rechtswesen,FALSE,0.013525277086589554
+LU,15,Feuerwehr,FALSE,7.080377364096503e-4
+LU,16,Verteidigung,FALSE,0.0020671991141514995
+LU,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+LU,2,Bildung,TRUE,0.3852143360626339
+LU,21,Obligatorische Schule,FALSE,0.3248475895705499
+LU,22,Sonderschulen,FALSE,0.03711845179739308
+LU,23,Berufliche Grundbildung,FALSE,0
+LU,25,Allgemeinbildende Schulen,FALSE,0.022846617122183492
+LU,26,Höhere Berufsbildung,FALSE,0
+LU,27,Hochschulen,FALSE,7.599788921667461e-6
+LU,28,Forschung,FALSE,0
+LU,29,Übriges Bildungswesen,FALSE,3.9407778358578746e-4
+LU,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.05378744501809498
+LU,31,Kulturerbe,FALSE,0.0022423307170939075
+LU,32,"Kultur, übrige",FALSE,0.020437930939729225
+LU,33,Medien,FALSE,0.0013826718294962124
+LU,34,Sport und Freizeit,FALSE,0.02955938940571967
+LU,35,Kirchen und religiöse Angelegenheiten,FALSE,1.6512212605596303e-4
+LU,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+LU,4,Gesundheit,TRUE,0.08057084145020707
+LU,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.06103805927952994
+LU,42,Ambulante Krankenpflege,FALSE,0.01625656964720512
+LU,43,Gesundheitsprävention,FALSE,0.002538984887327506
+LU,48,F&E in Gesundheit,FALSE,0
+LU,49,Gesundheitswesen n.a.g.,FALSE,7.372276361444957e-4
+LU,5,Soziale Sicherheit,TRUE,0.2408405179319966
+LU,51,Krankheit und Unfall,FALSE,0.023432489763943715
+LU,52,Invalidität,FALSE,0.035038442204066336
+LU,53,Alter + Hinterlassene,FALSE,0.04446947820773121
+LU,54,Familie und Jugend,FALSE,0.018930700450550383
+LU,55,Arbeitslosigkeit,FALSE,6.485679665386229e-4
+LU,56,Sozialer Wohnungsbau,FALSE,6.002612775039924e-4
+LU,57,Sozialhilfe und Asylwesen,FALSE,0.11740078435037347
+LU,58,F&E in soziale Sicherheit,FALSE,0
+LU,59,Soziale Wohlfahrt n.a.g.,FALSE,3.197937112888725e-4
+LU,6,Verkehr und Nachrichtenübermittlung,TRUE,0.08689085105524215
+LU,61,Strassenverkehr,FALSE,0.05093821746655352
+LU,62,Öffentlicher Verkehr,FALSE,0.03590691637320504
+LU,63,"Verkehr, übrige",FALSE,4.5717215483592486e-5
+LU,64,Nachrichtenübermittlung,FALSE,0
+LU,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+LU,7,Umweltschutz und Raumordnung,TRUE,0.020906704005410663
+LU,71,Wasserversorgung,FALSE,5.101878005502795e-4
+LU,72,Abwasserbeseitigung,FALSE,0
+LU,73,Abfallwirtschaft,FALSE,2.502427291682729e-4
+LU,74,Verbauungen,FALSE,0.006010253973156834
+LU,75,Arten- und Landschaftsschutz,FALSE,0.001986475077239348
+LU,76,Bekämpfung von Umweltverschmutzung,FALSE,2.4135283508565005e-5
+LU,77,Übriger Umweltschutz,FALSE,0.005796159976528919
+LU,78,F&E in Umweltschutz,FALSE,0
+LU,79,Raumordnung,FALSE,0.006329249165258444
+LU,8,Volkswirtschaft,TRUE,0.004638323030724222
+LU,81,Landwirtschaft,FALSE,0.0017060346345637784
+LU,82,Forstwirtschaft,FALSE,1.2668271590225624e-4
+LU,83,Jagd und Fischerei,FALSE,0
+LU,84,Tourismus,FALSE,0.0012494181672186684
+LU,85,"Industrie, Gewerbe, Handel",FALSE,0.0015561875130395198
+LU,86,Banken und Versicherungen,FALSE,0
+LU,87,Brennstoffe und Energie,FALSE,0
+LU,88,F&E in Volkswirtschaft,FALSE,0
+LU,89,Sonstige gewerbliche Betriebe,FALSE,0
+NE,0,Allgemeine Verwaltung,TRUE,0.09680824354339962
+NE,01,Legislative und Exekutive,FALSE,0.019541490368069726
+NE,02,Allgemeine Dienste,FALSE,0.0772667531753299
+NE,03,Beziehungen zum Ausland,FALSE,0
+NE,08,F&E in allgemeine Verwaltung,FALSE,0
+NE,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.06430554421327261
+NE,11,Öffentliche Sicherheit,FALSE,0.030006964921687907
+NE,12,Rechtssprechung,FALSE,0
+NE,13,Strafvollzug,FALSE,0
+NE,14,Allgemeines Rechtswesen,FALSE,0.010986108568111112
+NE,15,Feuerwehr,FALSE,0.01894538233640238
+NE,16,Verteidigung,FALSE,0.004367088387071224
+NE,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+NE,2,Bildung,TRUE,0.3110088061922924
+NE,21,Obligatorische Schule,FALSE,0.30705483089525315
+NE,22,Sonderschulen,FALSE,0.001966129935792618
+NE,23,Berufliche Grundbildung,FALSE,0.001707797565541944
+NE,25,Allgemeinbildende Schulen,FALSE,2.2573798976175238e-5
+NE,26,Höhere Berufsbildung,FALSE,0
+NE,27,Hochschulen,FALSE,0
+NE,28,Forschung,FALSE,0
+NE,29,Übriges Bildungswesen,FALSE,2.5747399672853606e-4
+NE,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.13217832193409113
+NE,31,Kulturerbe,FALSE,0.028564835962849904
+NE,32,"Kultur, übrige",FALSE,0.03870882693436609
+NE,33,Medien,FALSE,2.0741285353001137e-4
+NE,34,Sport und Freizeit,FALSE,0.060749775570532946
+NE,35,Kirchen und religiöse Angelegenheiten,FALSE,0.003947470612812168
+NE,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+NE,4,Gesundheit,TRUE,0.013344932103199307
+NE,41,"Spitäler, Kranken- und Pflegeheime",FALSE,3.7580196171279045e-4
+NE,42,Ambulante Krankenpflege,FALSE,0.009161518798388554
+NE,43,Gesundheitsprävention,FALSE,0.0033030657953813944
+NE,48,F&E in Gesundheit,FALSE,0
+NE,49,Gesundheitswesen n.a.g.,FALSE,5.045455477165707e-4
+NE,5,Soziale Sicherheit,TRUE,0.17566762215357273
+NE,51,Krankheit und Unfall,FALSE,0.006029255509372408
+NE,52,Invalidität,FALSE,8.043562144574903e-5
+NE,53,Alter + Hinterlassene,FALSE,0.005649454452346743
+NE,54,Familie und Jugend,FALSE,0.0393861491604052
+NE,55,Arbeitslosigkeit,FALSE,0.013639881586320256
+NE,56,Sozialer Wohnungsbau,FALSE,7.996049374426432e-4
+NE,57,Sozialhilfe und Asylwesen,FALSE,0.10973952141731937
+NE,58,F&E in soziale Sicherheit,FALSE,0
+NE,59,Soziale Wohlfahrt n.a.g.,FALSE,3.433194689203729e-4
+NE,6,Verkehr und Nachrichtenübermittlung,TRUE,0.16015065691490496
+NE,61,Strassenverkehr,FALSE,0.11605213929658685
+NE,62,Öffentlicher Verkehr,FALSE,0.04291869087861132
+NE,63,"Verkehr, übrige",FALSE,0.0011798267397067942
+NE,64,Nachrichtenübermittlung,FALSE,0
+NE,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+NE,7,Umweltschutz und Raumordnung,TRUE,0.03618208269144816
+NE,71,Wasserversorgung,FALSE,0.0014425757504073875
+NE,72,Abwasserbeseitigung,FALSE,0.004643515389383306
+NE,73,Abfallwirtschaft,FALSE,0.01124621062409406
+NE,74,Verbauungen,FALSE,3.8823252984880125e-4
+NE,75,Arten- und Landschaftsschutz,FALSE,6.257525155505047e-5
+NE,76,Bekämpfung von Umweltverschmutzung,FALSE,4.0942445599165397e-4
+NE,77,Übriger Umweltschutz,FALSE,0.005162560839127374
+NE,78,F&E in Umweltschutz,FALSE,0
+NE,79,Raumordnung,FALSE,0.01282698785104053
+NE,8,Volkswirtschaft,TRUE,0.010353790253819101
+NE,81,Landwirtschaft,FALSE,0.0010449652278188724
+NE,82,Forstwirtschaft,FALSE,0.003411649594389152
+NE,83,Jagd und Fischerei,FALSE,1.8303589065436644e-6
+NE,84,Tourismus,FALSE,0.003060907979670086
+NE,85,"Industrie, Gewerbe, Handel",FALSE,0.0028344370930344464
+NE,86,Banken und Versicherungen,FALSE,0
+NE,87,Brennstoffe und Energie,FALSE,0
+NE,88,F&E in Volkswirtschaft,FALSE,0
+NE,89,Sonstige gewerbliche Betriebe,FALSE,0
+NW,0,Allgemeine Verwaltung,TRUE,0.14259476073904293
+NW,01,Legislative und Exekutive,FALSE,0.02997577544423445
+NW,02,Allgemeine Dienste,FALSE,0.11261898529480846
+NW,03,Beziehungen zum Ausland,FALSE,0
+NW,08,F&E in allgemeine Verwaltung,FALSE,0
+NW,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.012770972284111753
+NW,11,Öffentliche Sicherheit,FALSE,1.344119448279423e-4
+NW,12,Rechtssprechung,FALSE,0
+NW,13,Strafvollzug,FALSE,0
+NW,14,Allgemeines Rechtswesen,FALSE,0.002256503165560749
+NW,15,Feuerwehr,FALSE,0.007195762259048408
+NW,16,Verteidigung,FALSE,0.0031842949146746523
+NW,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+NW,2,Bildung,TRUE,0.611584915502401
+NW,21,Obligatorische Schule,FALSE,0.6044099412025773
+NW,22,Sonderschulen,FALSE,0.007174974299823698
+NW,23,Berufliche Grundbildung,FALSE,0
+NW,25,Allgemeinbildende Schulen,FALSE,0
+NW,26,Höhere Berufsbildung,FALSE,0
+NW,27,Hochschulen,FALSE,0
+NW,28,Forschung,FALSE,0
+NW,29,Übriges Bildungswesen,FALSE,0
+NW,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.032793965388267295
+NW,31,Kulturerbe,FALSE,2.3469407585555377e-4
+NW,32,"Kultur, übrige",FALSE,0.008116044913652833
+NW,33,Medien,FALSE,0.0036651450079450702
+NW,34,Sport und Freizeit,FALSE,0.020776286788181768
+NW,35,Kirchen und religiöse Angelegenheiten,FALSE,1.7946026320647827e-6
+NW,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+NW,4,Gesundheit,TRUE,0.011334924477332356
+NW,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0
+NW,42,Ambulante Krankenpflege,FALSE,0.009908109971422302
+NW,43,Gesundheitsprävention,FALSE,0.001393743328959281
+NW,48,F&E in Gesundheit,FALSE,0
+NW,49,Gesundheitswesen n.a.g.,FALSE,3.3071176950771184e-5
+NW,5,Soziale Sicherheit,TRUE,0.04579235021219974
+NW,51,Krankheit und Unfall,FALSE,0
+NW,52,Invalidität,FALSE,0.005441100050098276
+NW,53,Alter + Hinterlassene,FALSE,0.004255105377421363
+NW,54,Familie und Jugend,FALSE,0.01455326647882892
+NW,55,Arbeitslosigkeit,FALSE,0
+NW,56,Sozialer Wohnungsbau,FALSE,0.0010424794016258177
+NW,57,Sozialhilfe und Asylwesen,FALSE,0.020094626594683966
+NW,58,F&E in soziale Sicherheit,FALSE,0
+NW,59,Soziale Wohlfahrt n.a.g.,FALSE,4.057723095413998e-4
+NW,6,Verkehr und Nachrichtenübermittlung,TRUE,0.06955278884247945
+NW,61,Strassenverkehr,FALSE,0.0640958652803857
+NW,62,Öffentlicher Verkehr,FALSE,0.003466929844324079
+NW,63,"Verkehr, übrige",FALSE,0.0019867704729324607
+NW,64,Nachrichtenübermittlung,FALSE,3.223244837222065e-6
+NW,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+NW,7,Umweltschutz und Raumordnung,TRUE,0.06936893164907285
+NW,71,Wasserversorgung,FALSE,0.018310177443411926
+NW,72,Abwasserbeseitigung,FALSE,0.008453132180205556
+NW,73,Abfallwirtschaft,FALSE,4.52797158409338e-4
+NW,74,Verbauungen,FALSE,0.02391580925315348
+NW,75,Arten- und Landschaftsschutz,FALSE,5.139749581252211e-4
+NW,76,Bekämpfung von Umweltverschmutzung,FALSE,0.0035696044948636406
+NW,77,Übriger Umweltschutz,FALSE,0.008926101213684003
+NW,78,F&E in Umweltschutz,FALSE,0
+NW,79,Raumordnung,FALSE,0.005227334947219679
+NW,8,Volkswirtschaft,TRUE,0.004206390905092618
+NW,81,Landwirtschaft,FALSE,0.0011254154640132096
+NW,82,Forstwirtschaft,FALSE,6.11434565727041e-4
+NW,83,Jagd und Fischerei,FALSE,0
+NW,84,Tourismus,FALSE,0.0015207103605530735
+NW,85,"Industrie, Gewerbe, Handel",FALSE,9.48830514799294e-4
+NW,86,Banken und Versicherungen,FALSE,0
+NW,87,Brennstoffe und Energie,FALSE,0
+NW,88,F&E in Volkswirtschaft,FALSE,0
+NW,89,Sonstige gewerbliche Betriebe,FALSE,0
+OW,0,Allgemeine Verwaltung,TRUE,0.09404715145374078
+OW,01,Legislative und Exekutive,FALSE,0.02064559148507268
+OW,02,Allgemeine Dienste,FALSE,0.0734015599686681
+OW,03,Beziehungen zum Ausland,FALSE,0
+OW,08,F&E in allgemeine Verwaltung,FALSE,0
+OW,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.020869028505621976
+OW,11,Öffentliche Sicherheit,FALSE,4.701024600041948e-4
+OW,12,Rechtssprechung,FALSE,3.5805634675147718e-6
+OW,13,Strafvollzug,FALSE,0
+OW,14,Allgemeines Rechtswesen,FALSE,0.007347804238336266
+OW,15,Feuerwehr,FALSE,0.010751111929526365
+OW,16,Verteidigung,FALSE,0.0022964293142876376
+OW,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+OW,2,Bildung,TRUE,0.5169458653092985
+OW,21,Obligatorische Schule,FALSE,0.4990413521594899
+OW,22,Sonderschulen,FALSE,0.013984800473827441
+OW,23,Berufliche Grundbildung,FALSE,0
+OW,25,Allgemeinbildende Schulen,FALSE,0.003903596545691561
+OW,26,Höhere Berufsbildung,FALSE,0
+OW,27,Hochschulen,FALSE,0
+OW,28,Forschung,FALSE,0
+OW,29,Übriges Bildungswesen,FALSE,1.6116130289645232e-5
+OW,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.0730113387048872
+OW,31,Kulturerbe,FALSE,0.0012183493108723676
+OW,32,"Kultur, übrige",FALSE,0.009813313141099343
+OW,33,Medien,FALSE,0.0018772340062658123
+OW,34,Sport und Freizeit,FALSE,0.05443184083773938
+OW,35,Kirchen und religiöse Angelegenheiten,FALSE,0.005670601408910298
+OW,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+OW,4,Gesundheit,TRUE,0.07127049715502987
+OW,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.0596396331675856
+OW,42,Ambulante Krankenpflege,FALSE,0.009948730478109987
+OW,43,Gesundheitsprävention,FALSE,9.69123098022567e-4
+OW,48,F&E in Gesundheit,FALSE,0
+OW,49,Gesundheitswesen n.a.g.,FALSE,7.130104113117093e-4
+OW,5,Soziale Sicherheit,TRUE,0.08809720919874722
+OW,51,Krankheit und Unfall,FALSE,4.7505530432085226e-4
+OW,52,Invalidität,FALSE,0.02048737718874749
+OW,53,Alter + Hinterlassene,FALSE,0.004581417510825561
+OW,54,Familie und Jugend,FALSE,0.018885327838278086
+OW,55,Arbeitslosigkeit,FALSE,0.0018787993952738126
+OW,56,Sozialer Wohnungsbau,FALSE,5.1846942085611756e-5
+OW,57,Sozialhilfe und Asylwesen,FALSE,0.041653297374358286
+OW,58,F&E in soziale Sicherheit,FALSE,0
+OW,59,Soziale Wohlfahrt n.a.g.,FALSE,8.408764485751776e-5
+OW,6,Verkehr und Nachrichtenübermittlung,TRUE,0.08102592651772053
+OW,61,Strassenverkehr,FALSE,0.06926326416465473
+OW,62,Öffentlicher Verkehr,FALSE,0.01160514111797099
+OW,63,"Verkehr, übrige",FALSE,1.575212350948099e-4
+OW,64,Nachrichtenübermittlung,FALSE,0
+OW,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+OW,7,Umweltschutz und Raumordnung,TRUE,0.049488290035290323
+OW,71,Wasserversorgung,FALSE,0.003878133739880461
+OW,72,Abwasserbeseitigung,FALSE,1.580415942553773e-4
+OW,73,Abfallwirtschaft,FALSE,0.0037101907013954876
+OW,74,Verbauungen,FALSE,0.024550567604649316
+OW,75,Arten- und Landschaftsschutz,FALSE,0.0012538082749465793
+OW,76,Bekämpfung von Umweltverschmutzung,FALSE,3.387855346008296e-4
+OW,77,Übriger Umweltschutz,FALSE,0.009576767797279196
+OW,78,F&E in Umweltschutz,FALSE,0
+OW,79,Raumordnung,FALSE,0.006021994788283079
+OW,8,Volkswirtschaft,TRUE,0.0052446931196635915
+OW,81,Landwirtschaft,FALSE,4.968823315208785e-4
+OW,82,Forstwirtschaft,FALSE,4.03443752131926e-4
+OW,83,Jagd und Fischerei,FALSE,0
+OW,84,Tourismus,FALSE,0
+OW,85,"Industrie, Gewerbe, Handel",FALSE,0.004344367036010786
+OW,86,Banken und Versicherungen,FALSE,0
+OW,87,Brennstoffe und Energie,FALSE,0
+OW,88,F&E in Volkswirtschaft,FALSE,0
+OW,89,Sonstige gewerbliche Betriebe,FALSE,0
+SG,0,Allgemeine Verwaltung,TRUE,0.08564366245065913
+SG,01,Legislative und Exekutive,FALSE,0.01442347761229292
+SG,02,Allgemeine Dienste,FALSE,0.0712201848383662
+SG,03,Beziehungen zum Ausland,FALSE,0
+SG,08,F&E in allgemeine Verwaltung,FALSE,0
+SG,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.013786048664130952
+SG,11,Öffentliche Sicherheit,FALSE,0.006685638526112358
+SG,12,Rechtssprechung,FALSE,1.0797853396750694e-4
+SG,13,Strafvollzug,FALSE,0
+SG,14,Allgemeines Rechtswesen,FALSE,0.003471840880052104
+SG,15,Feuerwehr,FALSE,5.294753231230434e-4
+SG,16,Verteidigung,FALSE,0.0029911154008759396
+SG,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+SG,2,Bildung,TRUE,0.5639942311729663
+SG,21,Obligatorische Schule,FALSE,0.5401338368199904
+SG,22,Sonderschulen,FALSE,0.023176978645577315
+SG,23,Berufliche Grundbildung,FALSE,1.6250699775665902e-5
+SG,25,Allgemeinbildende Schulen,FALSE,2.416015480149488e-4
+SG,26,Höhere Berufsbildung,FALSE,1.2198840543191343e-5
+SG,27,Hochschulen,FALSE,2.9354127370465733e-4
+SG,28,Forschung,FALSE,0
+SG,29,Übriges Bildungswesen,FALSE,1.198233453600724e-4
+SG,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.05664788218158758
+SG,31,Kulturerbe,FALSE,0.006737846854802759
+SG,32,"Kultur, übrige",FALSE,0.016996007715085092
+SG,33,Medien,FALSE,0
+SG,34,Sport und Freizeit,FALSE,0.032890079206611425
+SG,35,Kirchen und religiöse Angelegenheiten,FALSE,2.3948405088307003e-5
+SG,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+SG,4,Gesundheit,TRUE,0.03733914920682824
+SG,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.022953130111940903
+SG,42,Ambulante Krankenpflege,FALSE,0.01008470859952152
+SG,43,Gesundheitsprävention,FALSE,0.004151265218539759
+SG,48,F&E in Gesundheit,FALSE,0
+SG,49,Gesundheitswesen n.a.g.,FALSE,1.5004527682605616e-4
+SG,5,Soziale Sicherheit,TRUE,0.09887249414918332
+SG,51,Krankheit und Unfall,FALSE,0.00068327728106787485
+SG,52,Invalidität,FALSE,3.780881678570881e-4
+SG,53,Alter + Hinterlassene,FALSE,0.008935872377974587
+SG,54,Familie und Jugend,FALSE,0.02730186427859017
+SG,55,Arbeitslosigkeit,FALSE,0.003303297825088066
+SG,56,Sozialer Wohnungsbau,FALSE,2.031939930071456e-4
+SG,57,Sozialhilfe und Asylwesen,FALSE,0.057737237134602805
+SG,58,F&E in soziale Sicherheit,FALSE,0
+SG,59,Soziale Wohlfahrt n.a.g.,FALSE,3.2966309099558325e-4
+SG,6,Verkehr und Nachrichtenübermittlung,TRUE,0.11430243963120013
+SG,61,Strassenverkehr,FALSE,0.08412881378617257
+SG,62,Öffentlicher Verkehr,FALSE,0.029553815162115683
+SG,63,"Verkehr, übrige",FALSE,6.198106829118818e-4
+SG,64,Nachrichtenübermittlung,FALSE,0
+SG,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+SG,7,Umweltschutz und Raumordnung,TRUE,0.021471606903812012
+SG,71,Wasserversorgung,FALSE,6.133270938483525e-4
+SG,72,Abwasserbeseitigung,FALSE,0
+SG,73,Abfallwirtschaft,FALSE,0.0010684188128152435
+SG,74,Verbauungen,FALSE,0.0055357293040183345
+SG,75,Arten- und Landschaftsschutz,FALSE,6.980894803339778e-4
+SG,76,Bekämpfung von Umweltverschmutzung,FALSE,5.497376977595537e-4
+SG,77,Übriger Umweltschutz,FALSE,0.008951753449410465
+SG,78,F&E in Umweltschutz,FALSE,0
+SG,79,Raumordnung,FALSE,0.004054551065626085
+SG,8,Volkswirtschaft,TRUE,0.007942485639632334
+SG,81,Landwirtschaft,FALSE,0.001228198898922451
+SG,82,Forstwirtschaft,FALSE,0.0010518601453561067
+SG,83,Jagd und Fischerei,FALSE,6.109109566218588e-5
+SG,84,Tourismus,FALSE,0.0016958074413410793
+SG,85,"Industrie, Gewerbe, Handel",FALSE,0.0019277752810080543
+SG,86,Banken und Versicherungen,FALSE,0
+SG,87,Brennstoffe und Energie,FALSE,0.0019182908637092836
+SG,88,F&E in Volkswirtschaft,FALSE,0
+SG,89,Sonstige gewerbliche Betriebe,FALSE,5.946191363317348e-5
+SH,0,Allgemeine Verwaltung,TRUE,0.12814824126800334
+SH,01,Legislative und Exekutive,FALSE,0.023173775909895854
+SH,02,Allgemeine Dienste,FALSE,0.10497446535810749
+SH,03,Beziehungen zum Ausland,FALSE,0
+SH,08,F&E in allgemeine Verwaltung,FALSE,0
+SH,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.03501255174034347
+SH,11,Öffentliche Sicherheit,FALSE,0.019182826251771846
+SH,12,Rechtssprechung,FALSE,5.42196597474274e-5
+SH,13,Strafvollzug,FALSE,0
+SH,14,Allgemeines Rechtswesen,FALSE,0.012135266479057194
+SH,15,Feuerwehr,FALSE,0.0032207232114680306
+SH,16,Verteidigung,FALSE,4.19516138298968e-4
+SH,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+SH,2,Bildung,TRUE,0.3402172695292756
+SH,21,Obligatorische Schule,FALSE,0.3253538190219467
+SH,22,Sonderschulen,FALSE,0.014405506568898326
+SH,23,Berufliche Grundbildung,FALSE,9.057765257292928e-6
+SH,25,Allgemeinbildende Schulen,FALSE,0
+SH,26,Höhere Berufsbildung,FALSE,0
+SH,27,Hochschulen,FALSE,0
+SH,28,Forschung,FALSE,0
+SH,29,Übriges Bildungswesen,FALSE,4.488861731732518e-4
+SH,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.08874568170628869
+SH,31,Kulturerbe,FALSE,0.020186787799015015
+SH,32,"Kultur, übrige",FALSE,0.018452547781299494
+SH,33,Medien,FALSE,0
+SH,34,Sport und Freizeit,FALSE,0.04836878118829196
+SH,35,Kirchen und religiöse Angelegenheiten,FALSE,0.0017375649376822212
+SH,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+SH,4,Gesundheit,TRUE,0.017973802620903687
+SH,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.0029122184940495086
+SH,42,Ambulante Krankenpflege,FALSE,0.013561380595533062
+SH,43,Gesundheitsprävention,FALSE,0.0014333058571310774
+SH,48,F&E in Gesundheit,FALSE,0
+SH,49,Gesundheitswesen n.a.g.,FALSE,6.689767419003764e-5
+SH,5,Soziale Sicherheit,TRUE,0.2085858814749102
+SH,51,Krankheit und Unfall,FALSE,0.055248275572654805
+SH,52,Invalidität,FALSE,3.965461579303262e-4
+SH,53,Alter + Hinterlassene,FALSE,0.05258583000092835
+SH,54,Familie und Jugend,FALSE,0.02734440650975551
+SH,55,Arbeitslosigkeit,FALSE,0.0030694751593734297
+SH,56,Sozialer Wohnungsbau,FALSE,0
+SH,57,Sozialhilfe und Asylwesen,FALSE,0.06975778433871704
+SH,58,F&E in soziale Sicherheit,FALSE,0
+SH,59,Soziale Wohlfahrt n.a.g.,FALSE,1.835637355507353e-4
+SH,6,Verkehr und Nachrichtenübermittlung,TRUE,0.12451051510061432
+SH,61,Strassenverkehr,FALSE,0.07374014300502807
+SH,62,Öffentlicher Verkehr,FALSE,0.050288619461846394
+SH,63,"Verkehr, übrige",FALSE,4.817526337398492e-4
+SH,64,Nachrichtenübermittlung,FALSE,0
+SH,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+SH,7,Umweltschutz und Raumordnung,TRUE,0.03937861042489732
+SH,71,Wasserversorgung,FALSE,0.00921964991862781
+SH,72,Abwasserbeseitigung,FALSE,8.246181290391727e-4
+SH,73,Abfallwirtschaft,FALSE,0.0037420477420456334
+SH,74,Verbauungen,FALSE,0.0018312672430539178
+SH,75,Arten- und Landschaftsschutz,FALSE,0.001350184831342706
+SH,76,Bekämpfung von Umweltverschmutzung,FALSE,0.002146114259783649
+SH,77,Übriger Umweltschutz,FALSE,0.011074263326482175
+SH,78,F&E in Umweltschutz,FALSE,0
+SH,79,Raumordnung,FALSE,0.009190464974522255
+SH,8,Volkswirtschaft,TRUE,0.017427446134763405
+SH,81,Landwirtschaft,FALSE,0.0029451303040533765
+SH,82,Forstwirtschaft,FALSE,0.008585784735365726
+SH,83,Jagd und Fischerei,FALSE,0
+SH,84,Tourismus,FALSE,0.0017888691856904615
+SH,85,"Industrie, Gewerbe, Handel",FALSE,0.0014282053431986963
+SH,86,Banken und Versicherungen,FALSE,0
+SH,87,Brennstoffe und Energie,FALSE,0.0026570088431834495
+SH,88,F&E in Volkswirtschaft,FALSE,0
+SH,89,Sonstige gewerbliche Betriebe,FALSE,2.244772327169541e-5
+SO,0,Allgemeine Verwaltung,TRUE,0.11129497598118017
+SO,01,Legislative und Exekutive,FALSE,0.015795844325892663
+SO,02,Allgemeine Dienste,FALSE,0.09549913165528749
+SO,03,Beziehungen zum Ausland,FALSE,0
+SO,08,F&E in allgemeine Verwaltung,FALSE,0
+SO,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.02402888711105864
+SO,11,Öffentliche Sicherheit,FALSE,0.009310176904897348
+SO,12,Rechtssprechung,FALSE,1.7877657026657304e-4
+SO,13,Strafvollzug,FALSE,0
+SO,14,Allgemeines Rechtswesen,FALSE,0.004435105725244274
+SO,15,Feuerwehr,FALSE,0.005581152564693353
+SO,16,Verteidigung,FALSE,0.0045236753459570915
+SO,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+SO,2,Bildung,TRUE,0.4028662484992199
+SO,21,Obligatorische Schule,FALSE,0.366332232591757
+SO,22,Sonderschulen,FALSE,0.021644664322144853
+SO,23,Berufliche Grundbildung,FALSE,7.269307166072907e-4
+SO,25,Allgemeinbildende Schulen,FALSE,0.012454117425883699
+SO,26,Höhere Berufsbildung,FALSE,0
+SO,27,Hochschulen,FALSE,0.0014608280482224362
+SO,28,Forschung,FALSE,0
+SO,29,Übriges Bildungswesen,FALSE,2.4747539460461194e-4
+SO,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.05622867351683192
+SO,31,Kulturerbe,FALSE,0.007446200160895945
+SO,32,"Kultur, übrige",FALSE,0.01672668134274193
+SO,33,Medien,FALSE,5.832424837144133e-4
+SO,34,Sport und Freizeit,FALSE,0.03144085239763755
+SO,35,Kirchen und religiöse Angelegenheiten,FALSE,3.1697131842072814e-5
+SO,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+SO,4,Gesundheit,TRUE,0.03902865766246483
+SO,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.016509072782579154
+SO,42,Ambulante Krankenpflege,FALSE,0.015517289421222904
+SO,43,Gesundheitsprävention,FALSE,0.006993960028739909
+SO,48,F&E in Gesundheit,FALSE,0
+SO,49,Gesundheitswesen n.a.g.,FALSE,8.335429922856424e-6
+SO,5,Soziale Sicherheit,TRUE,0.24028111195097238
+SO,51,Krankheit und Unfall,FALSE,0
+SO,52,Invalidität,FALSE,0.03491249424605618
+SO,53,Alter + Hinterlassene,FALSE,0.05078263215720821
+SO,54,Familie und Jugend,FALSE,0.016838270136205903
+SO,55,Arbeitslosigkeit,FALSE,5.295738772117605e-4
+SO,56,Sozialer Wohnungsbau,FALSE,0
+SO,57,Sozialhilfe und Asylwesen,FALSE,0.13696464128996713
+SO,58,F&E in soziale Sicherheit,FALSE,0
+SO,59,Soziale Wohlfahrt n.a.g.,FALSE,2.535002443231683e-4
+SO,6,Verkehr und Nachrichtenübermittlung,TRUE,0.09963589922779402
+SO,61,Strassenverkehr,FALSE,0.07510940822616081
+SO,62,Öffentlicher Verkehr,FALSE,0.02442326600214965
+SO,63,"Verkehr, übrige",FALSE,1.0322499948354825e-4
+SO,64,Nachrichtenübermittlung,FALSE,0
+SO,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+SO,7,Umweltschutz und Raumordnung,TRUE,0.02178264318050801
+SO,71,Wasserversorgung,FALSE,0.0016196171622323212
+SO,72,Abwasserbeseitigung,FALSE,0
+SO,73,Abfallwirtschaft,FALSE,3.028263122932143e-5
+SO,74,Verbauungen,FALSE,0.003113907578949772
+SO,75,Arten- und Landschaftsschutz,FALSE,0.00218245892226727
+SO,76,Bekämpfung von Umweltverschmutzung,FALSE,4.663313630140684e-4
+SO,77,Übriger Umweltschutz,FALSE,0.007419204127853687
+SO,78,F&E in Umweltschutz,FALSE,0
+SO,79,Raumordnung,FALSE,0.006950841394961566
+SO,8,Volkswirtschaft,TRUE,0.0048529028699701195
+SO,81,Landwirtschaft,FALSE,0.0012660200687579423
+SO,82,Forstwirtschaft,FALSE,0.0014289999771586559
+SO,83,Jagd und Fischerei,FALSE,0
+SO,84,Tourismus,FALSE,0.0013487870263508492
+SO,85,"Industrie, Gewerbe, Handel",FALSE,8.09095797702672e-4
+SO,86,Banken und Versicherungen,FALSE,0
+SO,87,Brennstoffe und Energie,FALSE,0
+SO,88,F&E in Volkswirtschaft,FALSE,0
+SO,89,Sonstige gewerbliche Betriebe,FALSE,0
+SZ,0,Allgemeine Verwaltung,TRUE,0.10756237151687356
+SZ,01,Legislative und Exekutive,FALSE,0.017680978933419914
+SZ,02,Allgemeine Dienste,FALSE,0.08988139258345365
+SZ,03,Beziehungen zum Ausland,FALSE,0
+SZ,08,F&E in allgemeine Verwaltung,FALSE,0
+SZ,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.019293239151285165
+SZ,11,Öffentliche Sicherheit,FALSE,7.585222266836899e-5
+SZ,12,Rechtssprechung,FALSE,0.009547252746131317
+SZ,13,Strafvollzug,FALSE,3.625351223559073e-4
+SZ,14,Allgemeines Rechtswesen,FALSE,0.006129337047773971
+SZ,15,Feuerwehr,FALSE,3.356459172285125e-4
+SZ,16,Verteidigung,FALSE,0.0028426160951270886
+SZ,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+SZ,2,Bildung,TRUE,0.4497570265505608
+SZ,21,Obligatorische Schule,FALSE,0.42375661189755626
+SZ,22,Sonderschulen,FALSE,0.025804915244620134
+SZ,23,Berufliche Grundbildung,FALSE,0
+SZ,25,Allgemeinbildende Schulen,FALSE,1.75830160693701e-6
+SZ,26,Höhere Berufsbildung,FALSE,0
+SZ,27,Hochschulen,FALSE,0
+SZ,28,Forschung,FALSE,0
+SZ,29,Übriges Bildungswesen,FALSE,1.937411067774923e-4
+SZ,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.03341192073885831
+SZ,31,Kulturerbe,FALSE,2.873169257970429e-4
+SZ,32,"Kultur, übrige",FALSE,0.006486064725736053
+SZ,33,Medien,FALSE,1.9566372821128047e-4
+SZ,34,Sport und Freizeit,FALSE,0.02593553583419076
+SZ,35,Kirchen und religiöse Angelegenheiten,FALSE,5.073395249231741e-4
+SZ,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+SZ,4,Gesundheit,TRUE,0.04588714406296363
+SZ,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.020934091322637842
+SZ,42,Ambulante Krankenpflege,FALSE,0.022971950628435548
+SZ,43,Gesundheitsprävention,FALSE,0.0012102155494220568
+SZ,48,F&E in Gesundheit,FALSE,0
+SZ,49,Gesundheitswesen n.a.g.,FALSE,7.70886562468184e-4
+SZ,5,Soziale Sicherheit,TRUE,0.1706380935689199
+SZ,51,Krankheit und Unfall,FALSE,0.013191770180585587
+SZ,52,Invalidität,FALSE,0.020071197742222827
+SZ,53,Alter + Hinterlassene,FALSE,0.0683924952138615
+SZ,54,Familie und Jugend,FALSE,0.007297250903488073
+SZ,55,Arbeitslosigkeit,FALSE,4.805108419741337e-4
+SZ,56,Sozialer Wohnungsbau,FALSE,2.881302612802948e-4
+SZ,57,Sozialhilfe und Asylwesen,FALSE,0.06086720713021508
+SZ,58,F&E in soziale Sicherheit,FALSE,0
+SZ,59,Soziale Wohlfahrt n.a.g.,FALSE,4.9531295292425465e-5
+SZ,6,Verkehr und Nachrichtenübermittlung,TRUE,0.1305185098771347
+SZ,61,Strassenverkehr,FALSE,0.08514941445075956
+SZ,62,Öffentlicher Verkehr,FALSE,0.042128625113080125
+SZ,63,"Verkehr, übrige",FALSE,0.003224045703060903
+SZ,64,Nachrichtenübermittlung,FALSE,1.6424610234118517e-5
+SZ,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+SZ,7,Umweltschutz und Raumordnung,TRUE,0.03558810113153484
+SZ,71,Wasserversorgung,FALSE,9.18352814128328e-4
+SZ,72,Abwasserbeseitigung,FALSE,0.009720407318679883
+SZ,73,Abfallwirtschaft,FALSE,0.0016111279812665237
+SZ,74,Verbauungen,FALSE,0.006785053385901339
+SZ,75,Arten- und Landschaftsschutz,FALSE,0.0017410674966698953
+SZ,76,Bekämpfung von Umweltverschmutzung,FALSE,0.0015537741853325249
+SZ,77,Übriger Umweltschutz,FALSE,0.008100842190483846
+SZ,78,F&E in Umweltschutz,FALSE,0
+SZ,79,Raumordnung,FALSE,0.005157475759072503
+SZ,8,Volkswirtschaft,TRUE,0.007343593401869044
+SZ,81,Landwirtschaft,FALSE,0.0038055124882998468
+SZ,82,Forstwirtschaft,FALSE,2.0276927038805164e-5
+SZ,83,Jagd und Fischerei,FALSE,0
+SZ,84,Tourismus,FALSE,0.0027572457201825167
+SZ,85,"Industrie, Gewerbe, Handel",FALSE,7.605582663478749e-4
+SZ,86,Banken und Versicherungen,FALSE,0
+SZ,87,Brennstoffe und Energie,FALSE,0
+SZ,88,F&E in Volkswirtschaft,FALSE,0
+SZ,89,Sonstige gewerbliche Betriebe,FALSE,0
+TG,0,Allgemeine Verwaltung,TRUE,0.09739887671651692
+TG,01,Legislative und Exekutive,FALSE,0.01989577174341169
+TG,02,Allgemeine Dienste,FALSE,0.07750310497310522
+TG,03,Beziehungen zum Ausland,FALSE,0
+TG,08,F&E in allgemeine Verwaltung,FALSE,0
+TG,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.02277460920787585
+TG,11,Öffentliche Sicherheit,FALSE,6.295611648692209e-4
+TG,12,Rechtssprechung,FALSE,0
+TG,13,Strafvollzug,FALSE,0
+TG,14,Allgemeines Rechtswesen,FALSE,0.015292411921600125
+TG,15,Feuerwehr,FALSE,0.003911735707920133
+TG,16,Verteidigung,FALSE,0.002940900413486372
+TG,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+TG,2,Bildung,TRUE,0.5589077685168161
+TG,21,Obligatorische Schule,FALSE,0.5584255578383309
+TG,22,Sonderschulen,FALSE,7.53729897579004e-5
+TG,23,Berufliche Grundbildung,FALSE,0
+TG,25,Allgemeinbildende Schulen,FALSE,1.4091854501316372e-4
+TG,26,Höhere Berufsbildung,FALSE,0
+TG,27,Hochschulen,FALSE,0
+TG,28,Forschung,FALSE,0
+TG,29,Übriges Bildungswesen,FALSE,2.659191437141417e-4
+TG,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.048068047771616745
+TG,31,Kulturerbe,FALSE,0.002032604906700192
+TG,32,"Kultur, übrige",FALSE,0.010529997959000384
+TG,33,Medien,FALSE,0.003398954878962766
+TG,34,Sport und Freizeit,FALSE,0.03207766188233914
+TG,35,Kirchen und religiöse Angelegenheiten,FALSE,2.8828144614268625e-5
+TG,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+TG,4,Gesundheit,TRUE,0.03206067514220501
+TG,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.013131034937606053
+TG,42,Ambulante Krankenpflege,FALSE,0.015157059489846794
+TG,43,Gesundheitsprävention,FALSE,0.003536121017487471
+TG,48,F&E in Gesundheit,FALSE,0
+TG,49,Gesundheitswesen n.a.g.,FALSE,2.3645969726469225e-4
+TG,5,Soziale Sicherheit,TRUE,0.10144457616713813
+TG,51,Krankheit und Unfall,FALSE,0.026373024871682024
+TG,52,Invalidität,FALSE,7.250995326006281e-5
+TG,53,Alter + Hinterlassene,FALSE,0.007174935030551263
+TG,54,Familie und Jugend,FALSE,0.013853062562523196
+TG,55,Arbeitslosigkeit,FALSE,0.001721482470969462
+TG,56,Sozialer Wohnungsbau,FALSE,7.130103289618515e-5
+TG,57,Sozialhilfe und Asylwesen,FALSE,0.05201411000710423
+TG,58,F&E in soziale Sicherheit,FALSE,0
+TG,59,Soziale Wohlfahrt n.a.g.,FALSE,1.6415023815171081e-4
+TG,6,Verkehr und Nachrichtenübermittlung,TRUE,0.09784990389743321
+TG,61,Strassenverkehr,FALSE,0.07982628347170316
+TG,62,Öffentlicher Verkehr,FALSE,0.01760505650290166
+TG,63,"Verkehr, übrige",FALSE,3.6015281343310595e-4
+TG,64,Nachrichtenübermittlung,FALSE,5.841110939528669e-5
+TG,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+TG,7,Umweltschutz und Raumordnung,TRUE,0.029332277169729092
+TG,71,Wasserversorgung,FALSE,0.00396880375279162
+TG,72,Abwasserbeseitigung,FALSE,1.2101228472117716e-4
+TG,73,Abfallwirtschaft,FALSE,0.0018639512942384105
+TG,74,Verbauungen,FALSE,0.004255673755941185
+TG,75,Arten- und Landschaftsschutz,FALSE,4.165616957716687e-4
+TG,76,Bekämpfung von Umweltverschmutzung,FALSE,3.6945511434546873e-4
+TG,77,Übriger Umweltschutz,FALSE,0.012042161802383487
+TG,78,F&E in Umweltschutz,FALSE,0
+TG,79,Raumordnung,FALSE,0.006294657469536077
+TG,8,Volkswirtschaft,TRUE,0.012163265410668957
+TG,81,Landwirtschaft,FALSE,0.003154596281989675
+TG,82,Forstwirtschaft,FALSE,5.432682270688888e-4
+TG,83,Jagd und Fischerei,FALSE,1.144785986659042e-4
+TG,84,Tourismus,FALSE,0.002567091739846057
+TG,85,"Industrie, Gewerbe, Handel",FALSE,0.002854221269055747
+TG,86,Banken und Versicherungen,FALSE,0
+TG,87,Brennstoffe und Energie,FALSE,0.002903835482920134
+TG,88,F&E in Volkswirtschaft,FALSE,0
+TG,89,Sonstige gewerbliche Betriebe,FALSE,2.5773811122550188e-5
+TI,0,Allgemeine Verwaltung,TRUE,0.14640158483506727
+TI,01,Legislative und Exekutive,FALSE,0.013505405071288607
+TI,02,Allgemeine Dienste,FALSE,0.13289617976377865
+TI,03,Beziehungen zum Ausland,FALSE,0
+TI,08,F&E in allgemeine Verwaltung,FALSE,0
+TI,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.0732205425040855
+TI,11,Öffentliche Sicherheit,FALSE,0.04734534010569068
+TI,12,Rechtssprechung,FALSE,0.001064032930374339
+TI,13,Strafvollzug,FALSE,0
+TI,14,Allgemeines Rechtswesen,FALSE,0.01025516928341102
+TI,15,Feuerwehr,FALSE,0.0071279741041478314
+TI,16,Verteidigung,FALSE,0.007428026080461619
+TI,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+TI,2,Bildung,TRUE,0.17295648806302116
+TI,21,Obligatorische Schule,FALSE,0.1710463463931187
+TI,22,Sonderschulen,FALSE,3.000997659682548e-6
+TI,23,Berufliche Grundbildung,FALSE,2.933008871213626e-4
+TI,25,Allgemeinbildende Schulen,FALSE,1.103062888196541e-6
+TI,26,Höhere Berufsbildung,FALSE,4.1250916730300606e-4
+TI,27,Hochschulen,FALSE,5.038767832572105e-4
+TI,28,Forschung,FALSE,6.824868887634341e-4
+TI,29,Übriges Bildungswesen,FALSE,1.3863882909578606e-5
+TI,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.1117835100310245
+TI,31,Kulturerbe,FALSE,0.016153970546876312
+TI,32,"Kultur, übrige",FALSE,0.028205407900970394
+TI,33,Medien,FALSE,6.502469173611083e-4
+TI,34,Sport und Freizeit,FALSE,0.06225536359961883
+TI,35,Kirchen und religiöse Angelegenheiten,FALSE,0.004518521066197862
+TI,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+TI,4,Gesundheit,TRUE,0.09153786136099178
+TI,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.047743921660384256
+TI,42,Ambulante Krankenpflege,FALSE,0.037930766710769843
+TI,43,Gesundheitsprävention,FALSE,0.0022382583863104315
+TI,48,F&E in Gesundheit,FALSE,0.0011030562999512163
+TI,49,Gesundheitswesen n.a.g.,FALSE,0.002521858303576035
+TI,5,Soziale Sicherheit,TRUE,0.18024551693498297
+TI,51,Krankheit und Unfall,FALSE,0.052521823564555495
+TI,52,Invalidität,FALSE,0.012359315731007577
+TI,53,Alter + Hinterlassene,FALSE,0.07386115013314848
+TI,54,Familie und Jugend,FALSE,0.007259876961177984
+TI,55,Arbeitslosigkeit,FALSE,0.003263357181947056
+TI,56,Sozialer Wohnungsbau,FALSE,0
+TI,57,Sozialhilfe und Asylwesen,FALSE,0.030753908172715654
+TI,58,F&E in soziale Sicherheit,FALSE,0
+TI,59,Soziale Wohlfahrt n.a.g.,FALSE,2.2608519043071173e-4
+TI,6,Verkehr und Nachrichtenübermittlung,TRUE,0.15201675436584633
+TI,61,Strassenverkehr,FALSE,0.10967359732413963
+TI,62,Öffentlicher Verkehr,FALSE,0.04019512949826914
+TI,63,"Verkehr, übrige",FALSE,0.002140516810228204
+TI,64,Nachrichtenübermittlung,FALSE,7.510733209354036e-6
+TI,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+TI,7,Umweltschutz und Raumordnung,TRUE,0.06473433295181902
+TI,71,Wasserversorgung,FALSE,5.1129014703440566e-6
+TI,72,Abwasserbeseitigung,FALSE,0.023978813880593704
+TI,73,Abfallwirtschaft,FALSE,0.023045322099047187
+TI,74,Verbauungen,FALSE,0.0056291489812846625
+TI,75,Arten- und Landschaftsschutz,FALSE,8.195803468293976e-4
+TI,76,Bekämpfung von Umweltverschmutzung,FALSE,2.844578266671215e-4
+TI,77,Übriger Umweltschutz,FALSE,0.00403868150787912
+TI,78,F&E in Umweltschutz,FALSE,0
+TI,79,Raumordnung,FALSE,0.006933215408047475
+TI,8,Volkswirtschaft,TRUE,0.007103408953161478
+TI,81,Landwirtschaft,FALSE,3.6207504333833504e-4
+TI,82,Forstwirtschaft,FALSE,0.001724720962491214
+TI,83,Jagd und Fischerei,FALSE,1.0001113747173701e-5
+TI,84,Tourismus,FALSE,0.0036624237227356224
+TI,85,"Industrie, Gewerbe, Handel",FALSE,0.0013213838771466177
+TI,86,Banken und Versicherungen,FALSE,0
+TI,87,Brennstoffe und Energie,FALSE,0
+TI,88,F&E in Volkswirtschaft,FALSE,0
+TI,89,Sonstige gewerbliche Betriebe,FALSE,2.280423370251481e-5
+UR,0,Allgemeine Verwaltung,TRUE,0.14069898407536605
+UR,01,Legislative und Exekutive,FALSE,0.02590396826654476
+UR,02,Allgemeine Dienste,FALSE,0.11479501580882129
+UR,03,Beziehungen zum Ausland,FALSE,0
+UR,08,F&E in allgemeine Verwaltung,FALSE,0
+UR,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.030418202653246598
+UR,11,Öffentliche Sicherheit,FALSE,5.564231814537754e-4
+UR,12,Rechtssprechung,FALSE,0
+UR,13,Strafvollzug,FALSE,0
+UR,14,Allgemeines Rechtswesen,FALSE,0.01166547633046106
+UR,15,Feuerwehr,FALSE,0.012408005342109393
+UR,16,Verteidigung,FALSE,0.0057882977992223675
+UR,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+UR,2,Bildung,TRUE,0.5234110777607281
+UR,21,Obligatorische Schule,FALSE,0.5065778476096596
+UR,22,Sonderschulen,FALSE,0.01681597869005324
+UR,23,Berufliche Grundbildung,FALSE,0
+UR,25,Allgemeinbildende Schulen,FALSE,0
+UR,26,Höhere Berufsbildung,FALSE,0
+UR,27,Hochschulen,FALSE,0
+UR,28,Forschung,FALSE,0
+UR,29,Übriges Bildungswesen,FALSE,1.7251461015214808e-5
+UR,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.042790082228285516
+UR,31,Kulturerbe,FALSE,0.0014062969505920814
+UR,32,"Kultur, übrige",FALSE,0.012985564304769933
+UR,33,Medien,FALSE,6.786201976320458e-5
+UR,34,Sport und Freizeit,FALSE,0.028057380987071556
+UR,35,Kirchen und religiöse Angelegenheiten,FALSE,2.7297796608874236e-4
+UR,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+UR,4,Gesundheit,TRUE,0.06393347100954086
+UR,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.06121453143461432
+UR,42,Ambulante Krankenpflege,FALSE,2.3996472772894043e-4
+UR,43,Gesundheitsprävention,FALSE,0.002286950795453433
+UR,48,F&E in Gesundheit,FALSE,0
+UR,49,Gesundheitswesen n.a.g.,FALSE,1.920240517441783e-4
+UR,5,Soziale Sicherheit,TRUE,0.05436582428531426
+UR,51,Krankheit und Unfall,FALSE,0
+UR,52,Invalidität,FALSE,1.2712846368180811e-5
+UR,53,Alter + Hinterlassene,FALSE,0.004110349533026671
+UR,54,Familie und Jugend,FALSE,0.011829476574880966
+UR,55,Arbeitslosigkeit,FALSE,3.51257870180847e-4
+UR,56,Sozialer Wohnungsbau,FALSE,0
+UR,57,Sozialhilfe und Asylwesen,FALSE,0.03803490512564984
+UR,58,F&E in soziale Sicherheit,FALSE,0
+UR,59,Soziale Wohlfahrt n.a.g.,FALSE,2.7122335207759257e-5
+UR,6,Verkehr und Nachrichtenübermittlung,TRUE,0.09628226053299181
+UR,61,Strassenverkehr,FALSE,0.08294369997608289
+UR,62,Öffentlicher Verkehr,FALSE,0.012042026330460927
+UR,63,"Verkehr, übrige",FALSE,0.001296534226448008
+UR,64,Nachrichtenübermittlung,FALSE,0
+UR,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+UR,7,Umweltschutz und Raumordnung,TRUE,0.03662651565918936
+UR,71,Wasserversorgung,FALSE,0.0065778164261474665
+UR,72,Abwasserbeseitigung,FALSE,0.013023655323989594
+UR,73,Abfallwirtschaft,FALSE,7.1401724112363e-4
+UR,74,Verbauungen,FALSE,0.0030356209246144394
+UR,75,Arten- und Landschaftsschutz,FALSE,1.2363197480007334e-4
+UR,76,Bekämpfung von Umweltverschmutzung,FALSE,3.9163481584882376e-5
+UR,77,Übriger Umweltschutz,FALSE,0.008064311191963174
+UR,78,F&E in Umweltschutz,FALSE,0
+UR,79,Raumordnung,FALSE,0.005048299094966102
+UR,8,Volkswirtschaft,TRUE,0.011473581795337424
+UR,81,Landwirtschaft,FALSE,6.795871676589583e-4
+UR,82,Forstwirtschaft,FALSE,0.0031014034287778604
+UR,83,Jagd und Fischerei,FALSE,7.530296121578843e-7
+UR,84,Tourismus,FALSE,0.007240042992993612
+UR,85,"Industrie, Gewerbe, Handel",FALSE,4.4707219788281627e-4
+UR,86,Banken und Versicherungen,FALSE,0
+UR,87,Brennstoffe und Energie,FALSE,0
+UR,88,F&E in Volkswirtschaft,FALSE,0
+UR,89,Sonstige gewerbliche Betriebe,FALSE,4.7229784120203326e-6
+VD,0,Allgemeine Verwaltung,TRUE,0.14005272322811818
+VD,01,Legislative und Exekutive,FALSE,0.019822170914274753
+VD,02,Allgemeine Dienste,FALSE,0.12023055231384341
+VD,03,Beziehungen zum Ausland,FALSE,0
+VD,08,F&E in allgemeine Verwaltung,FALSE,0
+VD,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.08288501782914777
+VD,11,Öffentliche Sicherheit,FALSE,0.06011859123021007
+VD,12,Rechtssprechung,FALSE,2.0667887154491236e-6
+VD,13,Strafvollzug,FALSE,6.260058916847506e-5
+VD,14,Allgemeines Rechtswesen,FALSE,0.007517916566776572
+VD,15,Feuerwehr,FALSE,0.009124466479581652
+VD,16,Verteidigung,FALSE,0.006059376174695542
+VD,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+VD,2,Bildung,TRUE,0.1318125597751201
+VD,21,Obligatorische Schule,FALSE,0.1150059529041856
+VD,22,Sonderschulen,FALSE,0.00431251484013585
+VD,23,Berufliche Grundbildung,FALSE,0.010477917302684839
+VD,25,Allgemeinbildende Schulen,FALSE,4.130050156504571e-6
+VD,26,Höhere Berufsbildung,FALSE,5.828791974076674e-4
+VD,27,Hochschulen,FALSE,4.5922136795090905e-6
+VD,28,Forschung,FALSE,0
+VD,29,Übriges Bildungswesen,FALSE,0.0014245732668701557
+VD,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.12490586736590577
+VD,31,Kulturerbe,FALSE,0.006958999469424188
+VD,32,"Kultur, übrige",FALSE,0.04148232050692556
+VD,33,Medien,FALSE,0.0012386265742177322
+VD,34,Sport und Freizeit,FALSE,0.0679286740395555
+VD,35,Kirchen und religiöse Angelegenheiten,FALSE,0.007297246775782786
+VD,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+VD,4,Gesundheit,TRUE,0.042370385702570394
+VD,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.011929187466064214
+VD,42,Ambulante Krankenpflege,FALSE,0.017479284301755882
+VD,43,Gesundheitsprävention,FALSE,0.011280799889994208
+VD,48,F&E in Gesundheit,FALSE,0
+VD,49,Gesundheitswesen n.a.g.,FALSE,0.0016811140447560863
+VD,5,Soziale Sicherheit,TRUE,0.2734574513625737
+VD,51,Krankheit und Unfall,FALSE,0.025932232423908377
+VD,52,Invalidität,FALSE,0.05660043068167395
+VD,53,Alter + Hinterlassene,FALSE,0.03111556543622254
+VD,54,Familie und Jugend,FALSE,0.04130777144940857
+VD,55,Arbeitslosigkeit,FALSE,0.007975855330352168
+VD,56,Sozialer Wohnungsbau,FALSE,0.0034797433224401553
+VD,57,Sozialhilfe und Asylwesen,FALSE,0.1067732516356403
+VD,58,F&E in soziale Sicherheit,FALSE,0
+VD,59,Soziale Wohlfahrt n.a.g.,FALSE,2.7260108292764254e-4
+VD,6,Verkehr und Nachrichtenübermittlung,TRUE,0.15371853620811052
+VD,61,Strassenverkehr,FALSE,0.10527291255673996
+VD,62,Öffentlicher Verkehr,FALSE,0.04758285054007704
+VD,63,"Verkehr, übrige",FALSE,8.446567280026696e-4
+VD,64,Nachrichtenübermittlung,FALSE,1.8116383290852952e-5
+VD,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+VD,7,Umweltschutz und Raumordnung,TRUE,0.03941773771840361
+VD,71,Wasserversorgung,FALSE,0.004268154582832908
+VD,72,Abwasserbeseitigung,FALSE,3.141053877603309e-4
+VD,73,Abfallwirtschaft,FALSE,0.018448921361331583
+VD,74,Verbauungen,FALSE,5.161874492853757e-4
+VD,75,Arten- und Landschaftsschutz,FALSE,1.6948317286924786e-4
+VD,76,Bekämpfung von Umweltverschmutzung,FALSE,1.4843562065805052e-4
+VD,77,Übriger Umweltschutz,FALSE,0.0025223428667812014
+VD,78,F&E in Umweltschutz,FALSE,0
+VD,79,Raumordnung,FALSE,0.01303010727688491
+VD,8,Volkswirtschaft,TRUE,0.011379720810049983
+VD,81,Landwirtschaft,FALSE,5.190254762989629e-4
+VD,82,Forstwirtschaft,FALSE,0.007662523232455676
+VD,83,Jagd und Fischerei,FALSE,6.896988622294332e-5
+VD,84,Tourismus,FALSE,9.886501281514463e-4
+VD,85,"Industrie, Gewerbe, Handel",FALSE,0.002124974801104506
+VD,86,Banken und Versicherungen,FALSE,0
+VD,87,Brennstoffe und Energie,FALSE,0
+VD,88,F&E in Volkswirtschaft,FALSE,0
+VD,89,Sonstige gewerbliche Betriebe,FALSE,1.557728581644983e-5
+VS,0,Allgemeine Verwaltung,TRUE,0.13146701833729268
+VS,01,Legislative und Exekutive,FALSE,0.02085741002564041
+VS,02,Allgemeine Dienste,FALSE,0.11060960831165227
+VS,03,Beziehungen zum Ausland,FALSE,0
+VS,08,F&E in allgemeine Verwaltung,FALSE,0
+VS,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.05141570609969107
+VS,11,Öffentliche Sicherheit,FALSE,0.024947712163440182
+VS,12,Rechtssprechung,FALSE,0.003230039452633788
+VS,13,Strafvollzug,FALSE,1.9278837018101162e-5
+VS,14,Allgemeines Rechtswesen,FALSE,0.009213325423898749
+VS,15,Feuerwehr,FALSE,0.011057469132914676
+VS,16,Verteidigung,FALSE,0.0029478810897855825
+VS,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+VS,2,Bildung,TRUE,0.2407892465602706
+VS,21,Obligatorische Schule,FALSE,0.21136391310113267
+VS,22,Sonderschulen,FALSE,0.01365325631275247
+VS,23,Berufliche Grundbildung,FALSE,0.006116391454781572
+VS,25,Allgemeinbildende Schulen,FALSE,0.0013463006783200266
+VS,26,Höhere Berufsbildung,FALSE,8.062560735426376e-4
+VS,27,Hochschulen,FALSE,0.006513751833135684
+VS,28,Forschung,FALSE,9.183882225854133e-4
+VS,29,Übriges Bildungswesen,FALSE,7.098888402011145e-5
+VS,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.12470626801345812
+VS,31,Kulturerbe,FALSE,0.004867333964295135
+VS,32,"Kultur, übrige",FALSE,0.024224432178140413
+VS,33,Medien,FALSE,0.0029908931062889222
+VS,34,Sport und Freizeit,FALSE,0.06507410900642308
+VS,35,Kirchen und religiöse Angelegenheiten,FALSE,0.027549499758310583
+VS,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+VS,4,Gesundheit,TRUE,0.028430494690379875
+VS,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.0067084474054282745
+VS,42,Ambulante Krankenpflege,FALSE,0.005938318742622137
+VS,43,Gesundheitsprävention,FALSE,0.00471706698799319
+VS,48,F&E in Gesundheit,FALSE,4.057713714100924e-5
+VS,49,Gesundheitswesen n.a.g.,FALSE,0.011026084417195265
+VS,5,Soziale Sicherheit,TRUE,0.11075022527905526
+VS,51,Krankheit und Unfall,FALSE,4.6669365626940277e-4
+VS,52,Invalidität,FALSE,0.033798414679660216
+VS,53,Alter + Hinterlassene,FALSE,0.015424194475582026
+VS,54,Familie und Jugend,FALSE,0.028396382489733207
+VS,55,Arbeitslosigkeit,FALSE,0.004716973332347699
+VS,56,Sozialer Wohnungsbau,FALSE,3.431323605057634e-6
+VS,57,Sozialhilfe und Asylwesen,FALSE,0.027724796325332653
+VS,58,F&E in soziale Sicherheit,FALSE,0
+VS,59,Soziale Wohlfahrt n.a.g.,FALSE,2.1933899652500116e-4
+VS,6,Verkehr und Nachrichtenübermittlung,TRUE,0.22655856047414985
+VS,61,Strassenverkehr,FALSE,0.20497657353139662
+VS,62,Öffentlicher Verkehr,FALSE,0.019701304166750793
+VS,63,"Verkehr, übrige",FALSE,9.93023496821178e-4
+VS,64,Nachrichtenübermittlung,FALSE,8.876592791812806e-4
+VS,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+VS,7,Umweltschutz und Raumordnung,TRUE,0.05457151496002705
+VS,71,Wasserversorgung,FALSE,0.013628203417919654
+VS,72,Abwasserbeseitigung,FALSE,0.006433879059595477
+VS,73,Abfallwirtschaft,FALSE,0.0073597194813315465
+VS,74,Verbauungen,FALSE,0.012619294674095918
+VS,75,Arten- und Landschaftsschutz,FALSE,2.8651029745549163e-4
+VS,76,Bekämpfung von Umweltverschmutzung,FALSE,2.3343522283837792e-4
+VS,77,Übriger Umweltschutz,FALSE,0.0049572596605496465
+VS,78,F&E in Umweltschutz,FALSE,0
+VS,79,Raumordnung,FALSE,0.009053213146240944
+VS,8,Volkswirtschaft,TRUE,0.03131096558567547
+VS,81,Landwirtschaft,FALSE,0.009105334826668551
+VS,82,Forstwirtschaft,FALSE,0.0024395830424879836
+VS,83,Jagd und Fischerei,FALSE,5.731661255389037e-7
+VS,84,Tourismus,FALSE,0.014483999851497665
+VS,85,"Industrie, Gewerbe, Handel",FALSE,0.005281474698895733
+VS,86,Banken und Versicherungen,FALSE,0
+VS,87,Brennstoffe und Energie,FALSE,0
+VS,88,F&E in Volkswirtschaft,FALSE,0
+VS,89,Sonstige gewerbliche Betriebe,FALSE,0
+ZG,0,Allgemeine Verwaltung,TRUE,0.17962047102400172
+ZG,01,Legislative und Exekutive,FALSE,0.01857300370066654
+ZG,02,Allgemeine Dienste,FALSE,0.1610474673233352
+ZG,03,Beziehungen zum Ausland,FALSE,0
+ZG,08,F&E in allgemeine Verwaltung,FALSE,0
+ZG,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.02330461058180601
+ZG,11,Öffentliche Sicherheit,FALSE,0.002062507379337214
+ZG,12,Rechtssprechung,FALSE,1.1997664685522335e-4
+ZG,13,Strafvollzug,FALSE,5.110017317188011e-4
+ZG,14,Allgemeines Rechtswesen,FALSE,0.007078509032786251
+ZG,15,Feuerwehr,FALSE,0.012389333999185128
+ZG,16,Verteidigung,FALSE,0.001143281791923391
+ZG,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+ZG,2,Bildung,TRUE,0.37027963168206707
+ZG,21,Obligatorische Schule,FALSE,0.3408598512652564
+ZG,22,Sonderschulen,FALSE,0.02828083189497883
+ZG,23,Berufliche Grundbildung,FALSE,0
+ZG,25,Allgemeinbildende Schulen,FALSE,9.102598287277053e-4
+ZG,26,Höhere Berufsbildung,FALSE,0
+ZG,27,Hochschulen,FALSE,0
+ZG,28,Forschung,FALSE,0
+ZG,29,Übriges Bildungswesen,FALSE,2.2868869310414624e-4
+ZG,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.07144837172362702
+ZG,31,Kulturerbe,FALSE,0.0029849605884690483
+ZG,32,"Kultur, übrige",FALSE,0.030859625403839613
+ZG,33,Medien,FALSE,1.2897710445849034e-4
+ZG,34,Sport und Freizeit,FALSE,0.03747480862685986
+ZG,35,Kirchen und religiöse Angelegenheiten,FALSE,0
+ZG,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+ZG,4,Gesundheit,TRUE,0.07667613812393718
+ZG,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.04774733655972353
+ZG,42,Ambulante Krankenpflege,FALSE,0.022490072212615793
+ZG,43,Gesundheitsprävention,FALSE,0.00571572232882942
+ZG,48,F&E in Gesundheit,FALSE,0
+ZG,49,Gesundheitswesen n.a.g.,FALSE,7.230070227684437e-4
+ZG,5,Soziale Sicherheit,TRUE,0.13476991349571912
+ZG,51,Krankheit und Unfall,FALSE,0
+ZG,52,Invalidität,FALSE,4.8101952949181085e-5
+ZG,53,Alter + Hinterlassene,FALSE,0.02649774706101234
+ZG,54,Familie und Jugend,FALSE,0.035163884481797206
+ZG,55,Arbeitslosigkeit,FALSE,0.00801963794795038
+ZG,56,Sozialer Wohnungsbau,FALSE,0.010996948166321116
+ZG,57,Sozialhilfe und Asylwesen,FALSE,0.05274747733954193
+ZG,58,F&E in soziale Sicherheit,FALSE,0
+ZG,59,Soziale Wohlfahrt n.a.g.,FALSE,0.0012961165461469796
+ZG,6,Verkehr und Nachrichtenübermittlung,TRUE,0.10897749722210284
+ZG,61,Strassenverkehr,FALSE,0.08680796754600305
+ZG,62,Öffentlicher Verkehr,FALSE,0.018915602251189878
+ZG,63,"Verkehr, übrige",FALSE,0.0032407013730975437
+ZG,64,Nachrichtenübermittlung,FALSE,1.3226051812368574e-5
+ZG,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+ZG,7,Umweltschutz und Raumordnung,TRUE,0.032936892212575127
+ZG,71,Wasserversorgung,FALSE,0.0011175510848756122
+ZG,72,Abwasserbeseitigung,FALSE,3.731317842852176e-4
+ZG,73,Abfallwirtschaft,FALSE,0.014740583032856656
+ZG,74,Verbauungen,FALSE,0.0015686469996359493
+ZG,75,Arten- und Landschaftsschutz,FALSE,4.898115757417732e-4
+ZG,76,Bekämpfung von Umweltverschmutzung,FALSE,0.0017245982575000082
+ZG,77,Übriger Umweltschutz,FALSE,0.007096067291476788
+ZG,78,F&E in Umweltschutz,FALSE,0
+ZG,79,Raumordnung,FALSE,0.005826502186203123
+ZG,8,Volkswirtschaft,TRUE,0.001986473934163873
+ZG,81,Landwirtschaft,FALSE,1.832617139455372e-4
+ZG,82,Forstwirtschaft,FALSE,1.532823231732458e-5
+ZG,83,Jagd und Fischerei,FALSE,2.3077498079078653e-4
+ZG,84,Tourismus,FALSE,8.780828708963442e-4
+ZG,85,"Industrie, Gewerbe, Handel",FALSE,3.5183926469344913e-4
+ZG,86,Banken und Versicherungen,FALSE,0
+ZG,87,Brennstoffe und Energie,FALSE,3.1559762963975373e-4
+ZG,88,F&E in Volkswirtschaft,FALSE,0
+ZG,89,Sonstige gewerbliche Betriebe,FALSE,1.1589241880677858e-5
+ZH,0,Allgemeine Verwaltung,TRUE,0.08849520999005495
+ZH,01,Legislative und Exekutive,FALSE,0.01113390490917188
+ZH,02,Allgemeine Dienste,FALSE,0.07736130508088307
+ZH,03,Beziehungen zum Ausland,FALSE,0
+ZH,08,F&E in allgemeine Verwaltung,FALSE,0
+ZH,1,"Öffentliche Ordnung und Sicherheit, Verteidigung",TRUE,0.062241464366060276
+ZH,11,Öffentliche Sicherheit,FALSE,0.03690069697890095
+ZH,12,Rechtssprechung,FALSE,0
+ZH,13,Strafvollzug,FALSE,0
+ZH,14,Allgemeines Rechtswesen,FALSE,0.011442133791808856
+ZH,15,Feuerwehr,FALSE,0.011017845382897903
+ZH,16,Verteidigung,FALSE,0.0028807882124525673
+ZH,18,"F&E in Öffentliche Ordnung und Sicherheit, Verteidigung",FALSE,0
+ZH,2,Bildung,TRUE,0.3685898095556044
+ZH,21,Obligatorische Schule,FALSE,0.3253727500998442
+ZH,22,Sonderschulen,FALSE,0.03395936114268311
+ZH,23,Berufliche Grundbildung,FALSE,7.28174759842287e-4
+ZH,25,Allgemeinbildende Schulen,FALSE,0.004615560470505215
+ZH,26,Höhere Berufsbildung,FALSE,2.439338043406923e-5
+ZH,27,Hochschulen,FALSE,1.606519339807867e-5
+ZH,28,Forschung,FALSE,0
+ZH,29,Übriges Bildungswesen,FALSE,0.0038735045088974314
+ZH,3,"Kultur, Sport und Freizeit, Kirche",TRUE,0.06950613784600311
+ZH,31,Kulturerbe,FALSE,0.004896408028060659
+ZH,32,"Kultur, übrige",FALSE,0.028830970493097147
+ZH,33,Medien,FALSE,0.00111510911821999
+ZH,34,Sport und Freizeit,FALSE,0.03462544152839088
+ZH,35,Kirchen und religiöse Angelegenheiten,FALSE,3.8208678234434094e-5
+ZH,38,"F&E in Kultur, Sport und Freizeit, Kirche",FALSE,0
+ZH,4,Gesundheit,TRUE,0.08516693329881656
+ZH,41,"Spitäler, Kranken- und Pflegeheime",FALSE,0.059289181871160175
+ZH,42,Ambulante Krankenpflege,FALSE,0.014926980767330735
+ZH,43,Gesundheitsprävention,FALSE,0.007320769212486828
+ZH,48,F&E in Gesundheit,FALSE,0
+ZH,49,Gesundheitswesen n.a.g.,FALSE,0.003630001447838812
+ZH,5,Soziale Sicherheit,TRUE,0.18840009162259835
+ZH,51,Krankheit und Unfall,FALSE,0
+ZH,52,Invalidität,FALSE,0.018919284008217675
+ZH,53,Alter + Hinterlassene,FALSE,0.054571230990435995
+ZH,54,Familie und Jugend,FALSE,0.03295914866461315
+ZH,55,Arbeitslosigkeit,FALSE,0.0010698854415129955
+ZH,56,Sozialer Wohnungsbau,FALSE,0.002208159042302933
+ZH,57,Sozialhilfe und Asylwesen,FALSE,0.07775372298189151
+ZH,58,F&E in soziale Sicherheit,FALSE,0
+ZH,59,Soziale Wohlfahrt n.a.g.,FALSE,9.186604936240937e-4
+ZH,6,Verkehr und Nachrichtenübermittlung,TRUE,0.08696152040705225
+ZH,61,Strassenverkehr,FALSE,0.050545320914940246
+ZH,62,Öffentlicher Verkehr,FALSE,0.036103015454386406
+ZH,63,"Verkehr, übrige",FALSE,4.18927772710698e-5
+ZH,64,Nachrichtenübermittlung,FALSE,2.7129126045452145e-4
+ZH,68,F&E in Verkehr und Nachrichtenübermittlung,FALSE,0
+ZH,7,Umweltschutz und Raumordnung,TRUE,0.03330581848188576
+ZH,71,Wasserversorgung,FALSE,0.005907202891414905
+ZH,72,Abwasserbeseitigung,FALSE,0.008044692147483275
+ZH,73,Abfallwirtschaft,FALSE,0.006030685649102878
+ZH,74,Verbauungen,FALSE,0.002654597148732873
+ZH,75,Arten- und Landschaftsschutz,FALSE,0.0015593261079871609
+ZH,76,Bekämpfung von Umweltverschmutzung,FALSE,1.8562434040507092e-4
+ZH,77,Übriger Umweltschutz,FALSE,0.0063921891415738815
+ZH,78,F&E in Umweltschutz,FALSE,0
+ZH,79,Raumordnung,FALSE,0.0025315010551857186
+ZH,8,Volkswirtschaft,TRUE,0.017333014431924393
+ZH,81,Landwirtschaft,FALSE,9.126085978626424e-4
+ZH,82,Forstwirtschaft,FALSE,0.0021467864125053805
+ZH,83,Jagd und Fischerei,FALSE,1.5577341662684283e-5
+ZH,84,Tourismus,FALSE,6.003146015293874e-4
+ZH,85,"Industrie, Gewerbe, Handel",FALSE,5.83954184476218e-4
+ZH,86,Banken und Versicherungen,FALSE,0
+ZH,87,Brennstoffe und Energie,FALSE,0.011085568618838642
+ZH,88,F&E in Volkswirtschaft,FALSE,0
+ZH,89,Sonstige gewerbliche Betriebe,FALSE,0.0019882046750494377
